@@ -1,0 +1,1731 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Xiang Li" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="XMap is a fast network scanner designed for performing Internet-wide IPv6 &amp; IPv4 network research scanning." />
+
+  
+    <link rel="alternate" hreflang="zh" href="https://idealeer.github.io/zh/project/xmap/" />
+  
+  <link rel="alternate" hreflang="en-us" href="https://idealeer.github.io/project/xmap/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="hsl(339, 90%, 68%)" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.2b9ee7e29a774f2fe8ec398e7ba306d4.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://idealeer.github.io/project/xmap/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Xiang Li | 李想" />
+  <meta property="og:url" content="https://idealeer.github.io/project/xmap/" />
+  <meta property="og:title" content="XMap: The Internet Scanner | Xiang Li | 李想" />
+  <meta property="og:description" content="XMap is a fast network scanner designed for performing Internet-wide IPv6 &amp; IPv4 network research scanning." /><meta property="og:image" content="https://idealeer.github.io/project/xmap/featured.png" />
+    <meta property="twitter:image" content="https://idealeer.github.io/project/xmap/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-04-02T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-04-02T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://idealeer.github.io/project/xmap/"
+  },
+  "headline": "XMap: The Internet Scanner",
+  
+  "image": [
+    "https://idealeer.github.io/project/xmap/featured.png"
+  ],
+  
+  "datePublished": "2021-04-02T00:00:00Z",
+  "dateModified": "2021-04-02T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Xiang Li"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Xiang Li | 李想",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "XMap is a fast network scanner designed for performing Internet-wide IPv6 \u0026 IPv4 network research scanning."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>XMap: The Internet Scanner | Xiang Li | 李想</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="57011cea5e687f4650a7cd2857b792c0" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fd5182861017fd933a39547ef17125f7.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Xiang Li | 李想</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Xiang Li | 李想</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#author"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#project"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#activity"><span>Activities</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#misc"><span>Misc</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+           aria-haspopup="true" aria-label="Languages">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://idealeer.github.io/zh/project/xmap/">
+            <span>中文 (简体)</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>XMap: The Internet Scanner</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Xiang Li</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 2, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/ipv6/">IPv6</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Follow
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/idealeer" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>
+    Twitter
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
+  <div style="position: relative">
+    <img src="/project/xmap/featured_hu26f8d7432143e3ebde51f017b8dc496c_1234504_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><a href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">XMap</a> is a fast network scanner designed for performing Internet-wide IPv6 &amp; IPv4 network research scanning.</p>
+<p>XMap is reimplemented and improved thoroughly from ZMap and is fully compatible with ZMap, armed with the &ldquo;5 minutes&rdquo; probing speed and novel scanning techniques. XMap is capable of scanning the 32-bits address space in under 45 minutes. With a 10 gigE connection and <a href="http://www.ntop.org/products/packet-capture/pf_ring/" target="_blank" rel="noopener">PF_RING</a>, XMap can scan the 32-bits address space in under 5 minutes. Moreover, leveraging the novel IPv6 scanning approach, XMap can discover the IPv6 Network Periphery fast. Furthermore, XMap can scan the network space randomly with any length and at any position, such as 2001:db8::/32-64 and 192.168.0.1/16-20. Besides, XMap can probe multiple ports simultaneously.</p>
+<p>XMap operates on GNU/Linux, Mac OS, and BSD. XMap currently has implemented probe modules for ICMP Echo scans, TCP SYN scans, and <a href="https://github.com/idealeer/xmap/blob/master/examples/udp-probes/README" target="_blank" rel="noopener">UDP probes</a>.</p>
+<p>With banner grab and TLS handshake tool, <a href="https://github.com/zmap/zgrab2" target="_blank" rel="noopener">ZGrab2</a>, more involved scans could be performed.</p>
+<h2 id="installation">Installation</h2>
+<p>The latest stable release of XMap is version 1.0.0 and supports Linux, macOS, and BSD. We recommend installing XMap from HEAD rather than using a distro package manager (not supported yet).</p>
+<p><strong>Instructions on building XMap from source</strong> can be found in <a href="https://github.com/idealeer/xmap/blob/master/README.md" target="_blank" rel="noopener">INSTALL</a>.</p>
+<h2 id="usage">Usage</h2>
+<p>XMap <a href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">GitHub</a>.</p>
+<p>A guide to using XMap can be found in our <a href="https://github.com/idealeer/xmap/wiki" target="_blank" rel="noopener">GitHub Wiki</a>.</p>
+<p>Simple commands and options to using XMap can be found in <a href="https://github.com/idealeer/xmap/blob/master/src/xmap.1.ronn" target="_blank" rel="noopener">USAGE</a>.</p>
+<h2 id="paper">Paper</h2>
+<p><a href="https://idealeer.github.io/publication/dsn21/" target="_blank" rel="noopener">Fast IPv6 Network Periphery Discovery and Security Implications</a>.</p>
+<p><strong>Abstract.</strong> Numerous measurement researches have been performed to discover the IPv4 network security issues by leveraging the fast Internet-wide scanning techniques. However, IPv6 brings the 128-bits address space and renders brute-force network scanning impractical. Although significant efforts have been dedicated to enumerating active IPv6 hosts, limited by technique efficiency and probing accuracy, large-scale empirical measurement studies under the increasing IPv6 networks are infeasible now.</p>
+<p>To fill this research gap, by leveraging the extensively adopted IPv6 address allocation strategy, we propose a novel IPv6 network periphery discovery approach. Specifically, <em>XMap</em>, a fast network scanner, is developed to find the periphery, such as a home router. We evaluate it on twelve prominent Internet service providers and harvest <em>52M</em> active peripheries. Grounded on these found devices, we explore IPv6 network risks of the unintended exposed security services and the flawed traffic routing strategies. First, we demonstrate the unintended exposed security services in IPv6 networks, such as DNS, and HTTP, have become emerging security risks by analyzing <em>4.7M</em> peripheries. Second, by inspecting the periphery’s packet routing strategies, we present the flawed implementations of IPv6 routing protocol affecting <em>5.8M</em> router devices. Attackers can exploit this common vulnerability to conduct effective routing loop attacks, inducing DoS to the ISP’s and home routers with an amplification factor of &gt;<em>200</em>. We responsibly disclose those issues to all involved vendors and ASes and discuss mitigation solutions. Our research results indicate that the security community should revisit IPv6 network strategies immediately.</p>
+<p><strong>Authors.</strong> <a href="https://netsec.ccert.edu.cn/people/lx19" target="_blank" rel="noopener">Xiang Li</a>, <a href="https://netsec.ccert.edu.cn/people/lbj20/" target="_blank" rel="noopener">Baojun Liu</a>, Xiaofeng Zheng, <a href="https://netsec.ccert.edu.cn/people/duanhx/" target="_blank" rel="noopener">Haixin Duan</a>, <a href="https://netsec.ccert.edu.cn/people/qli/" target="_blank" rel="noopener">Qi Li</a>, Youjun Huang.</p>
+<p><strong>Conference.</strong> Proceedings of the 2021 IEEE/IFIP International Conference on Dependable Systems and Networks (<a href="http://dsn2021.ntu.edu.tw" target="_blank" rel="noopener">DSN &lsquo;21</a>)</p>
+<p><strong>Paper.</strong> <a href="https://idealeer.github.io/publication/dsn21/dsn21-ipv6-paper.pdf" target="_blank" rel="noopener">[PDF]</a>, <a href="http://idealeer.github.io/publication/dsn21/dsn21-ipv6-slides.pdf" target="_blank" rel="noopener">[Slides]</a> and [Video].</p>
+<p><strong>CNVD/CNNVD/CVE.</strong> (105/2/22)</p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03270" target="_blank" rel="noopener">CNVD-2021-03270</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03271" target="_blank" rel="noopener">CNVD-2021-03271</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03291" target="_blank" rel="noopener">CNVD-2021-03291</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03312" target="_blank" rel="noopener">CNVD-2021-03312</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03318" target="_blank" rel="noopener">CNVD-2021-03318</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03320" target="_blank" rel="noopener">CNVD-2021-03320</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03326" target="_blank" rel="noopener">CNVD-2021-03326</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03327" target="_blank" rel="noopener">CNVD-2021-03327</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03328" target="_blank" rel="noopener">CNVD-2021-03328</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03331" target="_blank" rel="noopener">CNVD-2021-03331</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03375" target="_blank" rel="noopener">CNVD-2021-03375</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03376" target="_blank" rel="noopener">CNVD-2021-03376</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03380" target="_blank" rel="noopener">CNVD-2021-03380</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03399" target="_blank" rel="noopener">CNVD-2021-03399</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03423" target="_blank" rel="noopener">CNVD-2021-03423</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03424" target="_blank" rel="noopener">CNVD-2021-03424</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03425" target="_blank" rel="noopener">CNVD-2021-03425</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03473" target="_blank" rel="noopener">CNVD-2021-03473</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03495" target="_blank" rel="noopener">CNVD-2021-03495</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03503" target="_blank" rel="noopener">CNVD-2021-03503</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03505" target="_blank" rel="noopener">CNVD-2021-03505</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03507" target="_blank" rel="noopener">CNVD-2021-03507</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03508" target="_blank" rel="noopener">CNVD-2021-03508</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-03511" target="_blank" rel="noopener">CNVD-2021-03511</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-04817" target="_blank" rel="noopener">CNVD-2021-04817</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-04818" target="_blank" rel="noopener">CNVD-2021-04818</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-04829" target="_blank" rel="noopener">CNVD-2021-04829</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-04830" target="_blank" rel="noopener">CNVD-2021-04830</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05370" target="_blank" rel="noopener">CNVD-2021-05370</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05371" target="_blank" rel="noopener">CNVD-2021-05371</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05372" target="_blank" rel="noopener">CNVD-2021-05372</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05373" target="_blank" rel="noopener">CNVD-2021-05373</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05374" target="_blank" rel="noopener">CNVD-2021-05374</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05375" target="_blank" rel="noopener">CNVD-2021-05375</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05380" target="_blank" rel="noopener">CNVD-2021-05380</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05435" target="_blank" rel="noopener">CNVD-2021-05435</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05470" target="_blank" rel="noopener">CNVD-2021-05470</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05472" target="_blank" rel="noopener">CNVD-2021-05472</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05492" target="_blank" rel="noopener">CNVD-2021-05492</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-05493" target="_blank" rel="noopener">CNVD-2021-05493</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06623" target="_blank" rel="noopener">CNVD-2021-06623</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06624" target="_blank" rel="noopener">CNVD-2021-06624</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06625" target="_blank" rel="noopener">CNVD-2021-06625</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06626" target="_blank" rel="noopener">CNVD-2021-06626</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06627" target="_blank" rel="noopener">CNVD-2021-06627</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06628" target="_blank" rel="noopener">CNVD-2021-06628</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-06629" target="_blank" rel="noopener">CNVD-2021-06629</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08384" target="_blank" rel="noopener">CNVD-2021-08384</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08385" target="_blank" rel="noopener">CNVD-2021-08385</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08386" target="_blank" rel="noopener">CNVD-2021-08386</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08387" target="_blank" rel="noopener">CNVD-2021-08387</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08388" target="_blank" rel="noopener">CNVD-2021-08388</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08389" target="_blank" rel="noopener">CNVD-2021-08389</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08390" target="_blank" rel="noopener">CNVD-2021-08390</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08391" target="_blank" rel="noopener">CNVD-2021-08391</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08394" target="_blank" rel="noopener">CNVD-2021-08394</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-08395" target="_blank" rel="noopener">CNVD-2021-08395</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10397" target="_blank" rel="noopener">CNVD-2021-10397</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10398" target="_blank" rel="noopener">CNVD-2021-10398</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10399" target="_blank" rel="noopener">CNVD-2021-10399</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10400" target="_blank" rel="noopener">CNVD-2021-10400</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10401" target="_blank" rel="noopener">CNVD-2021-10401</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10402" target="_blank" rel="noopener">CNVD-2021-10402</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10403" target="_blank" rel="noopener">CNVD-2021-10403</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10404" target="_blank" rel="noopener">CNVD-2021-10404</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10405" target="_blank" rel="noopener">CNVD-2021-10405</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10406" target="_blank" rel="noopener">CNVD-2021-10406</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10407" target="_blank" rel="noopener">CNVD-2021-10407</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10408" target="_blank" rel="noopener">CNVD-2021-10408</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10409" target="_blank" rel="noopener">CNVD-2021-10409</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10410" target="_blank" rel="noopener">CNVD-2021-10410</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10411" target="_blank" rel="noopener">CNVD-2021-10411</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10412" target="_blank" rel="noopener">CNVD-2021-10412</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10413" target="_blank" rel="noopener">CNVD-2021-10413</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10414" target="_blank" rel="noopener">CNVD-2021-10414</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10415" target="_blank" rel="noopener">CNVD-2021-10415</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10416" target="_blank" rel="noopener">CNVD-2021-10416</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10417" target="_blank" rel="noopener">CNVD-2021-10417</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10418" target="_blank" rel="noopener">CNVD-2021-10418</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10419" target="_blank" rel="noopener">CNVD-2021-10419</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10420" target="_blank" rel="noopener">CNVD-2021-10420</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10421" target="_blank" rel="noopener">CNVD-2021-10421</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10422" target="_blank" rel="noopener">CNVD-2021-10422</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10423" target="_blank" rel="noopener">CNVD-2021-10423</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10424" target="_blank" rel="noopener">CNVD-2021-10424</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-10425" target="_blank" rel="noopener">CNVD-2021-10425</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-12861" target="_blank" rel="noopener">CNVD-2021-12861</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-12883" target="_blank" rel="noopener">CNVD-2021-12883</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-12886" target="_blank" rel="noopener">CNVD-2021-12886</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-12887" target="_blank" rel="noopener">CNVD-2021-12887</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-12890" target="_blank" rel="noopener">CNVD-2021-12890</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13250" target="_blank" rel="noopener">CNVD-2021-13250</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13251" target="_blank" rel="noopener">CNVD-2021-13251</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13252" target="_blank" rel="noopener">CNVD-2021-13252</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13253" target="_blank" rel="noopener">CNVD-2021-13253</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13254" target="_blank" rel="noopener">CNVD-2021-13254</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13255" target="_blank" rel="noopener">CNVD-2021-13255</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13256" target="_blank" rel="noopener">CNVD-2021-13256</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13257" target="_blank" rel="noopener">CNVD-2021-13257</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13259" target="_blank" rel="noopener">CNVD-2021-13259</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13260" target="_blank" rel="noopener">CNVD-2021-13260</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13261" target="_blank" rel="noopener">CNVD-2021-13261</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-13469" target="_blank" rel="noopener">CNVD-2021-13469</a> <a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-16327" target="_blank" rel="noopener">CNVD-2021-16327</a></p>
+<p><a href="https://www.cnvd.org.cn/flaw/show/CNVD-2021-16400" target="_blank" rel="noopener">CNVD-2021-16400</a></p>
+<p><a href="http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202102-570" target="_blank" rel="noopener">CNNVD-202102-570</a> <a href="http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202103-1624" target="_blank" rel="noopener">CNNVD-202103-1624</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3107" target="_blank" rel="noopener">CVE-2021-3107</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3108" target="_blank" rel="noopener">CVE-2021-3108</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3112" target="_blank" rel="noopener">CVE-2021-3112</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3125" target="_blank" rel="noopener">CVE-2021-3125</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3128" target="_blank" rel="noopener">CVE-2021-3128</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3173" target="_blank" rel="noopener">CVE-2021-3173</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3379" target="_blank" rel="noopener">CVE-2021-3379</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21727" target="_blank" rel="noopener">CVE-2021-21727</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22161" target="_blank" rel="noopener">CVE-2021-22161</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22162" target="_blank" rel="noopener">CVE-2021-22162</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22163" target="_blank" rel="noopener">CVE-2021-22163</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22164" target="_blank" rel="noopener">CVE-2021-22164</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22165" target="_blank" rel="noopener">CVE-2021-22165</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23238" target="_blank" rel="noopener">CVE-2021-23238</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23268" target="_blank" rel="noopener">CVE-2021-23268</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23269" target="_blank" rel="noopener">CVE-2021-23269</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23270" target="_blank" rel="noopener">CVE-2021-23270</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23831" target="_blank" rel="noopener">CVE-2021-23831</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23832" target="_blank" rel="noopener">CVE-2021-23832</a></p>
+<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23833" target="_blank" rel="noopener">CVE-2021-23833</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23834" target="_blank" rel="noopener">CVE-2021-23834</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23898" target="_blank" rel="noopener">CVE-2021-23898</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/ipv6/">IPv6</a>
+  
+  <a class="badge badge-light" href="/tag/xmap/">XMap</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://idealeer.github.io/project/xmap/&amp;text=XMap:%20The%20Internet%20Scanner" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://idealeer.github.io/project/xmap/&amp;t=XMap:%20The%20Internet%20Scanner" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=XMap:%20The%20Internet%20Scanner&amp;body=https://idealeer.github.io/project/xmap/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://idealeer.github.io/project/xmap/&amp;title=XMap:%20The%20Internet%20Scanner" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=XMap:%20The%20Internet%20Scanner%20https://idealeer.github.io/project/xmap/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://idealeer.github.io/project/xmap/&amp;title=XMap:%20The%20Internet%20Scanner" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://idealeer.github.io"><img class="avatar mr-3 avatar-circle" src="/authors/lixiang/avatar_hu7ab212aeca1a86e2934f969d5707edce_19750_270x270_fill_q75_lanczos_center.jpg" alt="Xiang Li"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://idealeer.github.io">Xiang Li</a></h5>
+      <h6 class="card-subtitle">Ph.D Candidate in Cyberspace Security</h6>
+      <p class="card-text">My research interests include network security, protocol security, IPv6 security, DNS security, and Internet measurement.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/idealeer" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/idealeer" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="article-widget">
+  
+<div class="post-nav">
+  
+  
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/zh/publication/dsn21/">Fast IPv6 Network Periphery Discovery and Security Implications</a></li>
+      
+      <li><a href="/publication/dsn21/">Fast IPv6 Network Periphery Discovery and Security Implications</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+        <h2>Posts</h2>
+        
+          
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/thu-seu-communication-2021/" >Speech of the DSN &#39;21 paper: Fast IPv6 Network Periphery Discovery and Security Implications</a>
+    </div>
+
+    
+    <a href="/post/thu-seu-communication-2021/"  class="summary-link">
+      <div class="article-style">
+        Abstract: We propose a novel IPv6 network periphery discovery approach. Specifically, XMap, a fast network scanner, is developed to find the periphery, such as a home router. We evaluate it on twelve prominent Internet service providers and harvest 52M active peripheries.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Xiang Li</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 13, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/xmap/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/idealeer" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Follow
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/idealeer" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>
+    Twitter
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/thu-seu-communication-2021/" >
+      <img src="/post/thu-seu-communication-2021/featured_hu926c7e25d0be72615ebc939e2b5bb812_10390_150x0_resize_q75_lanczos.jpg" alt="Speech of the DSN &#39;21 paper: Fast IPv6 Network Periphery Discovery and Security Implications" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dsn21/" >Fast IPv6 Network Periphery Discovery and Security Implications</a>
+    </div>
+
+    
+    <a href="/publication/dsn21/"  class="summary-link">
+      <div class="article-style">
+        We introduce a novel IPv6 network scanning technique and develop a fast network scanner <em>XMap</em> to evaluate it, harvesting <em>52M</em> devices. We leverage <em>XMap</em> to measure the unintended exposed IPv6 services and uncover a common IPv6 routing loop vulnerability and receive &gt;106 CNVD/CVE.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Xiang Li</span>, <span >
+      Baojun Liu</span>, <span >
+      Xiaofeng Zheng</span>, <span >
+      Haixin Duan</span>, <span >
+      Qi Li</span>, <span >
+      Youjun Huang</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dsn21/dsn21-ipv6-paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dsn21/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/idealeer" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/xmap/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dsn21/dsn21-ipv6-slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/dsn21/" >
+      <img src="/publication/dsn21/featured_hu0b76b55d58362c03f1b27db5ae7b6ab5_174105_150x0_resize_lanczos_2.png" alt="Fast IPv6 Network Periphery Discovery and Security Implications" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    © 2021-2021 Xiang Li
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.b61a8f62b6e5c0cd322c8158c5b5dfb6.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
