@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech | 李想 | Xiang Li</title>
+    <link>https://idealeer.github.io/zh/tag/speech/</link>
+      <atom:link href="https://idealeer.github.io/zh/tag/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2021 Xiang Li</copyright><lastBuildDate>Sat, 17 Apr 2021 11:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_2.png</url>
+      <title>Speech</title>
+      <link>https://idealeer.github.io/zh/tag/speech/</link>
+    </image>
+    
+    <item>
+      <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</title>
+      <link>https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
+      <guid>https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/</guid>
+      <description>&lt;p&gt;作为清华大学网络科学与网络空间研究院的成员之一，在&lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学&lt;/a&gt;与&lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学&lt;/a&gt; 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。&lt;/p&gt;
+&lt;p&gt;来自清华大学&lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;网络科学与网络空间研究院&lt;/a&gt; ，&lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;奇安信技术研究院&lt;/a&gt;和&lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学网络空间安全学院&lt;/a&gt;的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

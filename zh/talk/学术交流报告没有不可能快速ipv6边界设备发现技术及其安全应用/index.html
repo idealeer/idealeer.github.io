@@ -1,0 +1,1385 @@
+<!DOCTYPE html><html lang="zh-Hans" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="李想" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="作为清华大学网络科学与网络空间研究院的成员之一，在[清华大学](https://www.tsinghua.edu.cn)与[东南大学](https://www.seu.edu.cn) 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。" />
+
+  
+    <link rel="alternate" hreflang="en" href="https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/" />
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="hsl(339, 90%, 68%)" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.b627ad72d42413fd47340c591837cc64.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/zh/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="李想 | Xiang Li" />
+  <meta property="og:url" content="https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/" />
+  <meta property="og:title" content="学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用 | 李想 | Xiang Li" />
+  <meta property="og:description" content="作为清华大学网络科学与网络空间研究院的成员之一，在[清华大学](https://www.tsinghua.edu.cn)与[东南大学](https://www.seu.edu.cn) 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。" /><meta property="og:image" content="https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/featured.jpg" />
+    <meta property="twitter:image" content="https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/featured.jpg" /><meta property="og:locale" content="zh-Hans" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-04-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-04-17T11:40:00&#43;00:00">
+  
+
+  
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/"
+  },
+  "name": "学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用",
+  
+  "location": {
+    "@type": "Place",
+    "name": "东南大学九龙湖宾馆, 南京, 中国",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "江苏区苏源大道77号",
+      "addressLocality": "南京",
+      "postalCode": "211102",
+      "addressRegion": "",
+      "addressCountry": "中国"
+    }
+    
+  },
+  
+  
+  "image": [
+    "https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/featured.jpg"
+  ],
+  
+  "startDate": "2021-04-17T11:40:00Z",
+  
+  "endDate": "2021-04-17T12:10:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "李想"
+  },
+  
+  "description": "作为清华大学网络科学与网络空间研究院的成员之一，在[清华大学](https://www.tsinghua.edu.cn)与[东南大学](https://www.seu.edu.cn) 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。"
+}
+</script>
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用 | 李想 | Xiang Li</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="1f8bbcf0460480b9b16cb852001df59e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7add2b461e7df0e743d69e3781bbfb30.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/zh/">李想 | Xiang Li</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="切换导航">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/zh/">李想 | Xiang Li</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#author"><span>主页</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#publication"><span>论文</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#project"><span>项目</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#activity"><span>动态</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#misc"><span>其他</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#contact"><span>联系</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>浅色</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>深色</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>自动</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+           aria-haspopup="true" aria-label="语言">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>中文 (简体)</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      李想</span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/zh/category/speech/">Speech</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/zh/project/xmap/">
+    项目
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/idealeer" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Follow
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/idealeer" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>
+    Twitter
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 269px; max-height: 187px;">
+  <div style="position: relative">
+    <img src="/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/featured.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>摘要</h3>
+      <p class="pub-abstract">在IPv4网络空间中，网络扫描技术具备着巨大的应用前景，可以被用来完成大规模的测量研究工作，诸如多种协议部署的测量、僵尸网络行为的追踪、潜在网络漏洞的发现。然而，IPv6引入了海量的128位地址空间，使得传统的枚举遍历扫描技术变得不太可行。即便学术界已经针对性地提出了多种有效的IPv6终端地址发现方案，但这些方案仍受到扫描效率和精度的影响，并不能被直接采用来进行IPv6网络空间中的大规模测量研究。<br> 本工作从全新的扫描角度出发，提出了一种新型的IPv6网络扫描技术，用于发现位于网络拓扑中重要位置的IPv6网络边界设备，同时设计并实现了全新的IPv6网络扫描器：<em>XMap</em>，可被用来进行大规模的扫描探测工作。通过利用XMap，本工作在若干个运营商的网络环境下发现了数以千万计的IPv6网络边界设备，并对其暴露的关键网络服务进行了深入的安全分析。此外，利用XMap，本工作发现了一个普遍存在的通用型路由循环漏洞（影响数十家路由器厂商），申请到了多于106个漏洞编号，并向厂商提供了合理的披露和有效的修复方案。</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">日期</div>
+          <div class="col-12 col-md-9">
+            Apr 17, 2021 11:40 AM &mdash; 12:10 PM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">事件</div>
+          <div class="col-12 col-md-9">
+            
+            网络空间安全学术交流会
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">位置</div>
+          <div class="col-12 col-md-9">东南大学九龙湖宾馆, 南京, 中国</div>
+          
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-9">江苏区苏源大道77号, 南京, 211102</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <p>作为清华大学网络科学与网络空间研究院的成员之一，在<a href="https://www.tsinghua.edu.cn" target="_blank" rel="noopener">清华大学</a>与<a href="https://www.seu.edu.cn" target="_blank" rel="noopener">东南大学</a> 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。</p>
+<p>来自清华大学<a href="http://www.insc.tsinghua.edu.cn" target="_blank" rel="noopener">网络科学与网络空间研究院</a> ，<a href="https://research.qianxin.com" target="_blank" rel="noopener">奇安信技术研究院</a>和<a href="https://cyber.seu.edu.cn" target="_blank" rel="noopener">东南大学网络空间安全学院</a>的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/zh/tag/academic-communication/">Academic Communication</a>
+  
+  <a class="badge badge-light" href="/zh/tag/speech/">Speech</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/&amp;text=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/&amp;t=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8&amp;body=https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/&amp;title=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8%20https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://idealeer.github.io/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/&amp;title=%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e6%8a%a5%e5%91%8a%ef%bc%9a%e6%b2%a1%e6%9c%89%e4%b8%8d%e5%8f%af%e8%83%bd%ef%bc%8c%e5%bf%ab%e9%80%9fIPv6%e8%be%b9%e7%95%8c%e8%ae%be%e5%a4%87%e5%8f%91%e7%8e%b0%e6%8a%80%e6%9c%af%e5%8f%8a%e5%85%b6%e5%ae%89%e5%85%a8%e5%ba%94%e7%94%a8" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://idealeer.github.io"><img class="avatar mr-3 avatar-circle" src="/zh/authors/lixiang/avatar_hu7ab212aeca1a86e2934f969d5707edce_19750_270x270_fill_q75_lanczos_center.jpg" alt="李想"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://idealeer.github.io">李想</a></h5>
+      <h6 class="card-subtitle">博士研究生（网络空间安全）</h6>
+      <p class="card-text">研究领域涉及网络安全，协议安全，IPv6安全，DNS安全以及互联网测量。</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/zh/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/idealeer" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/idealeer" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="article-widget">
+  
+<div class="post-nav">
+  
+  
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    © 2021-2021 Xiang Li
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">引用</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> 复制
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> 下载
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/zh/js/wowchemy.min.f46e99c72240b4a7807aae95ab56b981.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
