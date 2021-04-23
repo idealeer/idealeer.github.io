@@ -197,9 +197,6 @@
                 href="https://idealeer.github.io/event/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/tag/speech/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
     <xhtml:link
@@ -238,12 +235,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/thu-seu-communication-2021/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/project/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
@@ -284,9 +275,6 @@
                 href="https://idealeer.github.io/project/xmap/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/project/xmap/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -301,6 +289,10 @@
   </url><url>
     <loc>https://idealeer.github.io/zh/admin/</loc>
   </url><url>
+    <loc>https://idealeer.github.io/zh/event/</loc>
+  </url><url>
     <loc>https://idealeer.github.io/zh/publication/</loc>
+  </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
   </url>
 </urlset>
