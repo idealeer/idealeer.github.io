@@ -5,12 +5,21 @@
     <link>https://idealeer.github.io/event/</link>
       <atom:link href="https://idealeer.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 Xiang Li</copyright><lastBuildDate>Sat, 24 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 Xiang Li</copyright><lastBuildDate>Tue, 25 May 2021 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_2.png</url>
       <title>Activities</title>
       <link>https://idealeer.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>ICANN DNS Symposium | May 2021</title>
+      <link>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</guid>
+      <description>&lt;p&gt;In the 4th ICANN DNS Symposium (IDS 2021, virtually) , I presented &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a novel DNS cache poisoning attack&lt;/a&gt; (introduced by Xiaofeng Zheng from our lab) to the audiences.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
