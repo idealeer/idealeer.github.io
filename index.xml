@@ -18,7 +18,7 @@
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://idealeer.github.io/publication/dsn21/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;We introduce a novel IPv6 network scanning technique and develop a fast network scanner &lt;em&gt;XMap&lt;/em&gt; to evaluate it, harvesting &lt;em&gt;52M&lt;/em&gt; devices. We leverage &lt;em&gt;XMap&lt;/em&gt; to measure the unintended exposed IPv6 services and uncover a common IPv6 routing loop vulnerability and receive &amp;gt;109 CNVD/CVE.&lt;/p&gt;
+&lt;p&gt;We introduce a novel IPv6 network scanning technique and develop a fast network scanner &lt;em&gt;XMap&lt;/em&gt; to evaluate it, harvesting &lt;em&gt;52M&lt;/em&gt; devices. We leverage &lt;em&gt;XMap&lt;/em&gt; to measure the unintended exposed IPv6 services and uncover a common IPv6 routing loop vulnerability and receive &amp;gt;131 CNVD/CVE.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CNVD/CNNVD/CVE.&lt;/strong&gt; (109/5/22)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03270&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03271&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03271&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03291&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03312&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03318&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03320&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03320&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03326&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03327&lt;/a&gt;&lt;/p&gt;
@@ -85,16 +85,6 @@
       <guid>https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</guid>
       <description>&lt;p&gt;As one of the delegates from Tsinghua University, I presented our latest research on the IPv6 network security at the &lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THU&lt;/a&gt; and &lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEU&lt;/a&gt; academic communication meeting.&lt;/p&gt;
 &lt;p&gt;Teachers, students, and researchers from the &lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Network Science and Cyberspace&lt;/a&gt; (Tsinghua University), &lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QI-ANXIN Technology Research Institute&lt;/a&gt;, and &lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Cyber Science and Engineering&lt;/a&gt; (Southeast University) attended this meeting and shared their research ideas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</title>
-      <link>https://idealeer.github.io/zh/event/thu-seu-communication-2021/</link>
-      <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/zh/event/thu-seu-communication-2021/</guid>
-      <description>&lt;p&gt;作为清华大学网络科学与网络空间研究院的成员之一，在&lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学&lt;/a&gt;与&lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学&lt;/a&gt; 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。&lt;/p&gt;
-&lt;p&gt;来自清华大学&lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;网络科学与网络空间研究院&lt;/a&gt; ，&lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;奇安信技术研究院&lt;/a&gt;和&lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学网络空间安全学院&lt;/a&gt;的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。&lt;/p&gt;
 </description>
     </item>
     
