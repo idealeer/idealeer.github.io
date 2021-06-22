@@ -184,6 +184,9 @@
                 href="https://idealeer.github.io/event/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/zh/event/</loc>
+    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
     <xhtml:link
@@ -196,6 +199,9 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/icann-dns-symposium-may-2021/"
                 />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/event/ids-2021/</loc>
+    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/presentation/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
@@ -223,6 +229,9 @@
                 href="https://idealeer.github.io/category/presentation/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -237,12 +246,6 @@
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/event/west-lake-cyberspace-conf-2021/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/academic-communication/</loc>
@@ -296,9 +299,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/thu-seu-communication-2021/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/project/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
