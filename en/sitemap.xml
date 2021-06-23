@@ -15,6 +15,32 @@
                 href="https://idealeer.github.io/publication-type/1/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/talk/2021%E5%B9%B4%E7%AC%AC51%E5%B1%8Aieee/ifip%E5%9B%BD%E9%99%85%E5%8F%AF%E9%9D%A0%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BD%91%E7%BB%9C%E4%BC%9A%E8%AE%AE-dsn-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/event/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/event/"
+                />
+  </url><url>
     <loc>https://idealeer.github.io/categories/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,6 +66,9 @@
                 hreflang="en"
                 href="https://idealeer.github.io/publication/dsn21/"
                 />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/publication/dsn21/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/internet-measurement/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -106,6 +135,32 @@
                 href="https://idealeer.github.io/tag/ipv6-security/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/tag/presentation/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/category/presentation/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/category/presentation/"
+                />
+  </url><url>
     <loc>https://idealeer.github.io/publication_types/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -131,6 +186,9 @@
                 hreflang="en"
                 href="https://idealeer.github.io/publication/"
                 />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/publication/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/routing-loop-attack/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -171,21 +229,8 @@
                 href="https://idealeer.github.io/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/event/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/event/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
@@ -200,38 +245,6 @@
                 href="https://idealeer.github.io/talk/icann-dns-symposium-may-2021/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/event/ids-2021/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idealeer.github.io/tag/presentation/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/category/presentation/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/category/presentation/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -244,9 +257,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/west-lake-cyberspace-conf-2021/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/academic-communication/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
@@ -339,6 +349,9 @@
                 href="https://idealeer.github.io/project/xmap/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/zh/project/xmap/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idealeer.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -353,6 +366,6 @@
   </url><url>
     <loc>https://idealeer.github.io/zh/admin/</loc>
   </url><url>
-    <loc>https://idealeer.github.io/zh/publication/</loc>
+    <loc>https://idealeer.github.io/zh/event/</loc>
   </url>
 </urlset>
