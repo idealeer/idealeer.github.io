@@ -22,7 +22,7 @@
 &lt;p&gt;结合应用层扫描工具 &lt;a href=&#34;https://github.com/zmap/zgrab2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZGrab2&lt;/a&gt;, XMap 可以发挥更多的扫描功能。&lt;/p&gt;
 &lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
 &lt;p&gt;XMap 最新版本为 v1.0.0，目前仅支持编译安装。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安装步骤&lt;/strong&gt;详见 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSTALL&lt;/a&gt; 文件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤&lt;/strong&gt;详见 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/INSTALL.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSTALL&lt;/a&gt; 文件。&lt;/p&gt;
 &lt;h3 id=&#34;使用&#34;&gt;使用&lt;/h3&gt;
 &lt;p&gt;XMap &lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;详细使用步骤见 &lt;a href=&#34;https://github.com/idealeer/xmap/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Wiki&lt;/a&gt;。&lt;/p&gt;
