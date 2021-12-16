@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://idealeer.github.io/zh/event/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/event/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/categories/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/categories/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/talk/the-tool-box-xmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/tag/presentation/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/category/presentation/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/category/presentation/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/tags/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/"
+                />
+  </url><url>
     <loc>https://idealeer.github.io/zh/publication-type/1/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,32 +117,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://idealeer.github.io/zh/talk/2021%E5%B9%B4%E7%AC%AC51%E5%B1%8Aieee/ifip%E5%9B%BD%E9%99%85%E5%8F%AF%E9%9D%A0%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BD%91%E7%BB%9C%E4%BC%9A%E8%AE%AE-dsn-2021/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/event/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/categories/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/categories/"
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/publication/dsn21/</loc>
@@ -132,32 +197,6 @@
                 href="https://idealeer.github.io/zh/tag/ipv6-security/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/tag/presentation/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/category/presentation/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/category/presentation/"
-                />
-  </url><url>
     <loc>https://idealeer.github.io/zh/publication_types/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -195,32 +234,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://idealeer.github.io/zh/tag/routing-loop-attack/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/tags/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/tags/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/"
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-may-2021/</loc>
