@@ -15,9 +15,6 @@
                 href="https://idealeer.github.io/event/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/categories/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,9 +27,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/the-tool-box-xmap-2021/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/presentation/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
@@ -99,9 +93,6 @@
                 href="https://idealeer.github.io/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/publication-type/1/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -127,9 +118,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/dsn-2021/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/publication/dsn21/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -261,9 +249,6 @@
                 href="https://idealeer.github.io/talk/icann-dns-symposium-may-2021/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/event/ids-2021/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -276,6 +261,15 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/"
                 />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/event/west-lake-cyberspace-conf-2021/</loc>
+    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idealeer.github.io/zh/event/</loc>
+    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/academic-communication/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
@@ -370,9 +364,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/project/xmap/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/project/xmap/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/admin/</loc>
     <xhtml:link
