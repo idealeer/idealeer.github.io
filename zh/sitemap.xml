@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/categories/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,71 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://idealeer.github.io/zh/categories/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/tag/conference/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tag/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tag/conference/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/category/conference/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/category/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/category/conference/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/tags/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/"
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/</loc>
@@ -65,32 +130,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://idealeer.github.io/zh/category/presentation/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/tags/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/tags/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/"
                 />
   </url><url>
     <loc>https://idealeer.github.io/zh/publication-type/1/</loc>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://idealeer.github.io/event/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -15,8 +15,11 @@
                 href="https://idealeer.github.io/event/"
                 />
   </url><url>
+    <loc>https://idealeer.github.io/zh/event/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idealeer.github.io/categories/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -27,6 +30,80 @@
                 hreflang="en"
                 href="https://idealeer.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://idealeer.github.io/tag/conference/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tag/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tag/conference/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/category/conference/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/category/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/category/conference/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/tags/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://idealeer.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idealeer.github.io/"
+                />
+  </url><url>
+    <loc>https://idealeer.github.io/zh/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idealeer.github.io/zh/event/msrc-blackhat-2022/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idealeer.github.io/zh/event/the-tool-box-xmap-2021/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/tag/presentation/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
@@ -54,19 +131,6 @@
                 href="https://idealeer.github.io/category/presentation/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/tags/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/tags/"
-                />
-  </url><url>
     <loc>https://idealeer.github.io/talk/the-tool-box-xmap/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,19 +142,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idealeer.github.io/talk/the-tool-box-xmap/"
-                />
-  </url><url>
-    <loc>https://idealeer.github.io/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://idealeer.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idealeer.github.io/"
                 />
   </url><url>
     <loc>https://idealeer.github.io/publication-type/1/</loc>
@@ -118,12 +169,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/dsn-2021/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/publication/dsn21/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -248,9 +293,6 @@
                 href="https://idealeer.github.io/tag/routing-loop-attack/"
                 />
   </url><url>
-    <loc>https://idealeer.github.io/zh/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
     <xhtml:link
@@ -331,9 +373,6 @@
                 hreflang="en"
                 href="https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/"
                 />
-  </url><url>
-    <loc>https://idealeer.github.io/zh/event/thu-seu-communication-2021/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
   </url><url>
     <loc>https://idealeer.github.io/project/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
