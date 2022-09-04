@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IPv6 Security | 李想 | Xiang Li</title>
-    <link>https://idealeer.github.io/zh/tag/ipv6-security/</link>
-      <atom:link href="https://idealeer.github.io/zh/tag/ipv6-security/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lixiang521.com/zh/tag/ipv6-security/</link>
+      <atom:link href="https://lixiang521.com/zh/tag/ipv6-security/index.xml" rel="self" type="application/rss+xml" />
     <description>IPv6 Security</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>IPv6 Security</title>
-      <link>https://idealeer.github.io/zh/tag/ipv6-security/</link>
+      <link>https://lixiang521.com/zh/tag/ipv6-security/</link>
     </image>
     
     <item>
       <title>Fast IPv6 Network Periphery Discovery and Security Implications</title>
-      <link>https://idealeer.github.io/zh/publication/dsn21/</link>
+      <link>https://lixiang521.com/zh/publication/dsn21/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/zh/publication/dsn21/</guid>
+      <guid>https://lixiang521.com/zh/publication/dsn21/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;在IPv4网络空间中，网络扫描技术具备着巨大的应用前景，可以被用来完成大规模的测量研究工作，诸如多种协议部署的测量、僵尸网络行为的追踪、潜在网络漏洞的发现。然而，IPv6引入了海量的128位地址空间，使得传统的枚举遍历扫描技术变得不太可行。即便学术界已经针对性地提出了多种有效的IPv6终端地址发现方案，但这些方案仍受到扫描效率和精度的影响，并不能被直接采用来进行IPv6网络空间中的大规模测量研究。&lt;br&gt; 本工作从全新的扫描角度出发，提出了一种新型的IPv6网络扫描技术，用于发现位于网络拓扑中重要位置的IPv6网络边界设备，同时设计并实现了全新的IPv6网络扫描器：&lt;em&gt;XMap&lt;/em&gt;，可被用来进行大规模的扫描探测工作。通过利用XMap，本工作在若干个运营商的网络环境下发现了数以千万计的IPv6网络边界设备，并对其暴露的关键网络服务进行了深入的安全分析。此外，利用XMap，本工作发现了一个普遍存在的通用型路由循环漏洞（影响数十家路由器厂商），申请到了多于109个漏洞编号，并向厂商提供了合理的披露和有效的修复方案。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号：CNVD/CNNVD/CVE.&lt;/strong&gt; (109/2/22)&lt;/p&gt;

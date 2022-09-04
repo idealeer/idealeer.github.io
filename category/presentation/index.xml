@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentation | Xiang Li | 李想</title>
-    <link>https://idealeer.github.io/category/presentation/</link>
-      <atom:link href="https://idealeer.github.io/category/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lixiang521.com/category/presentation/</link>
+      <atom:link href="https://lixiang521.com/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 15 Dec 2021 08:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
-      <link>https://idealeer.github.io/category/presentation/</link>
+      <link>https://lixiang521.com/category/presentation/</link>
     </image>
     
     <item>
       <title>The Tool Box | XMap</title>
-      <link>https://idealeer.github.io/talk/the-tool-box-xmap/</link>
+      <link>https://lixiang521.com/talk/the-tool-box-xmap/</link>
       <pubDate>Wed, 15 Dec 2021 08:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/the-tool-box-xmap/</guid>
+      <guid>https://lixiang521.com/talk/the-tool-box-xmap/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Pentester Academy TV&lt;/a&gt;, I presented the IPv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; with &lt;a href=&#34;https://twitter.com/DamianGoh13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@DamianGoh13&lt;/a&gt;. New features are coming.&lt;/p&gt;
 &lt;p&gt;Watch the video at &lt;a href=&#34;https://www.youtube.com/watch?v=wgdFham6P2Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,27 +24,27 @@
     
     <item>
       <title>2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (Virtual Event) | DSN 2021</title>
-      <link>https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</link>
+      <link>https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</guid>
+      <guid>https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</guid>
       <description>&lt;p&gt;In the 2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (2021 2021, virtually), I presented paper &amp;ldquo;Fast IPv6 Network Periphery Discovery and Security Implications&amp;rdquo; to the audiences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ICANN DNS Symposium | May 2021</title>
-      <link>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</link>
+      <link>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</link>
       <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</guid>
+      <guid>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</guid>
       <description>&lt;p&gt;In the 4th ICANN DNS Symposium (IDS 2021, virtually) , I presented &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a novel DNS cache poisoning attack&lt;/a&gt; (introduced by Xiaofeng Zheng from our lab) to the audiences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
-      <link>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
+      <link>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
       <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
+      <guid>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
       <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; to the audiences.&lt;/p&gt;
 &lt;p&gt;Our colleagues Kaiwen, Chuhan, and Jianyu presented their fake emails checking tool: &lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -52,9 +52,9 @@
     
     <item>
       <title>2021 西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展</title>
-      <link>https://idealeer.github.io/zh/event/west-lake-cyberspace-conf-2021/</link>
+      <link>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</link>
       <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/zh/event/west-lake-cyberspace-conf-2021/</guid>
+      <guid>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</guid>
       <description>&lt;p&gt;在2021年西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展中，我们展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。&lt;/p&gt;
 &lt;p&gt;我们的同行凯文、楚涵、建宇，演示了他们的伪造邮件检测工具：&lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;。&lt;/p&gt;
 </description>

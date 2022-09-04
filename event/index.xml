@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activities | Xiang Li | 李想</title>
-    <link>https://idealeer.github.io/event/</link>
-      <atom:link href="https://idealeer.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lixiang521.com/event/</link>
+      <atom:link href="https://lixiang521.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 10 Aug 2022 07:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
-      <link>https://idealeer.github.io/event/</link>
+      <link>https://lixiang521.com/event/</link>
     </image>
     
     <item>
       <title>Invited to MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
-      <link>https://idealeer.github.io/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</link>
+      <link>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</link>
       <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</guid>
+      <guid>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</guid>
       <description>&lt;p&gt;On July 25, I was invited to MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022.&lt;/p&gt;
 &lt;p&gt;Event details:&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>The Tool Box | XMap</title>
-      <link>https://idealeer.github.io/talk/the-tool-box-xmap/</link>
+      <link>https://lixiang521.com/talk/the-tool-box-xmap/</link>
       <pubDate>Wed, 15 Dec 2021 08:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/the-tool-box-xmap/</guid>
+      <guid>https://lixiang521.com/talk/the-tool-box-xmap/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Pentester Academy TV&lt;/a&gt;, I presented the IPv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; with &lt;a href=&#34;https://twitter.com/DamianGoh13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@DamianGoh13&lt;/a&gt;. New features are coming.&lt;/p&gt;
 &lt;p&gt;Watch the video at &lt;a href=&#34;https://www.youtube.com/watch?v=wgdFham6P2Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -44,27 +44,27 @@
     
     <item>
       <title>2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (Virtual Event) | DSN 2021</title>
-      <link>https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</link>
+      <link>https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</guid>
+      <guid>https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</guid>
       <description>&lt;p&gt;In the 2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (2021 2021, virtually), I presented paper &amp;ldquo;Fast IPv6 Network Periphery Discovery and Security Implications&amp;rdquo; to the audiences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ICANN DNS Symposium | May 2021</title>
-      <link>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</link>
+      <link>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</link>
       <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/icann-dns-symposium-may-2021/</guid>
+      <guid>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</guid>
       <description>&lt;p&gt;In the 4th ICANN DNS Symposium (IDS 2021, virtually) , I presented &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a novel DNS cache poisoning attack&lt;/a&gt; (introduced by Xiaofeng Zheng from our lab) to the audiences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
-      <link>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
+      <link>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
       <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
+      <guid>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
       <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; to the audiences.&lt;/p&gt;
 &lt;p&gt;Our colleagues Kaiwen, Chuhan, and Jianyu presented their fake emails checking tool: &lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -72,9 +72,9 @@
     
     <item>
       <title>Speech of the DSN &#39;21 paper: Fast IPv6 Network Periphery Discovery and Security Implications</title>
-      <link>https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</link>
+      <link>https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</link>
       <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</guid>
+      <guid>https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</guid>
       <description>&lt;p&gt;As one of the delegates from Tsinghua University, I presented our latest research on the IPv6 network security at the &lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THU&lt;/a&gt; and &lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEU&lt;/a&gt; academic communication meeting.&lt;/p&gt;
 &lt;p&gt;Teachers, students, and researchers from the &lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Network Science and Cyberspace&lt;/a&gt; (Tsinghua University), &lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QI-ANXIN Technology Research Institute&lt;/a&gt;, and &lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Cyber Science and Engineering&lt;/a&gt; (Southeast University) attended this meeting and shared their research ideas.&lt;/p&gt;
 </description>

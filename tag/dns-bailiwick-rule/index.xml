@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNS Bailiwick Rule | Xiang Li | 李想</title>
+    <link>https://lixiang521.com/tag/dns-bailiwick-rule/</link>
+      <atom:link href="https://lixiang521.com/tag/dns-bailiwick-rule/index.xml" rel="self" type="application/rss+xml" />
+    <description>DNS Bailiwick Rule</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <title>DNS Bailiwick Rule</title>
+      <link>https://lixiang521.com/tag/dns-bailiwick-rule/</link>
+    </image>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/zh/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

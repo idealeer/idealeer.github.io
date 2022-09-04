@@ -2,21 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Xiang Li | 李想</title>
-    <link>https://idealeer.github.io/publication-type/1/</link>
-      <atom:link href="https://idealeer.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lixiang521.com/publication-type/1/</link>
+      <atom:link href="https://lixiang521.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idealeer.github.io/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://idealeer.github.io/publication-type/1/</link>
+      <link>https://lixiang521.com/publication-type/1/</link>
     </image>
     
     <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/zh/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
+      <link>https://lixiang521.com/publication/ndss23/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/ndss23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (9)&lt;/p&gt;
+&lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html#CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaraDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30257&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast IPv6 Network Periphery Discovery and Security Implications</title>
-      <link>https://idealeer.github.io/publication/dsn21/</link>
+      <link>https://lixiang521.com/publication/dsn21/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://idealeer.github.io/publication/dsn21/</guid>
+      <guid>https://lixiang521.com/publication/dsn21/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;We introduce a novel IPv6 network scanning technique and develop a fast network scanner &lt;em&gt;XMap&lt;/em&gt; to evaluate it, harvesting &lt;em&gt;52M&lt;/em&gt; devices. We leverage &lt;em&gt;XMap&lt;/em&gt; to measure the unintended exposed IPv6 services and uncover a common IPv6 routing loop vulnerability and receive &amp;gt;131 CNVD/CVE.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CNVD/CNNVD/CVE.&lt;/strong&gt; (109/5/22)&lt;/p&gt;
