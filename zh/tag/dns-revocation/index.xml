@@ -5,7 +5,7 @@
     <link>https://lixiang521.com/zh/tag/dns-revocation/</link>
       <atom:link href="https://lixiang521.com/zh/tag/dns-revocation/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS Revocation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
       <title>DNS Revocation</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
       <link>https://lixiang521.com/zh/publication/ndss23/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/ndss23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
