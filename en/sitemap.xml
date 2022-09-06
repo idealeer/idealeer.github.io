@@ -219,6 +219,9 @@
                 href="https://lixiang521.com/event/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/tag/conference/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
@@ -258,8 +261,8 @@
                 href="https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <loc>https://lixiang521.com/zh/event/msrc-blackhat-2022/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/zh/event/the-tool-box-xmap-2021/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
@@ -328,9 +331,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/publication/dsn21/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication/dsn21/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/internet-measurement/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -423,6 +423,9 @@
                 href="https://lixiang521.com/talk/icann-dns-symposium-may-2021/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/ids-2021/</loc>
+    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -435,9 +438,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</loc>
-    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/academic-communication/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
@@ -490,9 +490,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/thu-seu-communication-2021/</loc>
-    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/project/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
