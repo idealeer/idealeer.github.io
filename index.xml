@@ -21,9 +21,17 @@
 &lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -32,6 +40,24 @@
       <link>https://lixiang521.com/publication/ndss23/</link>
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/publication/ndss23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
+&lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (9)&lt;/p&gt;
+&lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html#CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaraDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30257&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
+      <link>https://lixiang521.com/zh/publication/ndss23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ndss23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
 &lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
@@ -197,6 +223,15 @@
     </item>
     
     <item>
+      <title>ICANN DNS 研讨会 | May 2021</title>
+      <link>https://lixiang521.com/zh/event/ids-2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/ids-2021/</guid>
+      <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2021 West Lake Cybersecurity Conference: Cyberspace Security Tools Presentation</title>
       <link>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</link>
       <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
@@ -213,16 +248,6 @@
       <guid>https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</guid>
       <description>&lt;p&gt;As one of the delegates from Tsinghua University, I presented our latest research on the IPv6 network security at the &lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THU&lt;/a&gt; and &lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEU&lt;/a&gt; academic communication meeting.&lt;/p&gt;
 &lt;p&gt;Teachers, students, and researchers from the &lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Network Science and Cyberspace&lt;/a&gt; (Tsinghua University), &lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QI-ANXIN Technology Research Institute&lt;/a&gt;, and &lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Cyber Science and Engineering&lt;/a&gt; (Southeast University) attended this meeting and shared their research ideas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</title>
-      <link>https://lixiang521.com/zh/event/thu-seu-communication-2021/</link>
-      <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/event/thu-seu-communication-2021/</guid>
-      <description>&lt;p&gt;作为清华大学网络科学与网络空间研究院的成员之一，在&lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学&lt;/a&gt;与&lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学&lt;/a&gt; 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。&lt;/p&gt;
-&lt;p&gt;来自清华大学&lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;网络科学与网络空间研究院&lt;/a&gt; ，&lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;奇安信技术研究院&lt;/a&gt;和&lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学网络空间安全学院&lt;/a&gt;的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。&lt;/p&gt;
 </description>
     </item>
     
