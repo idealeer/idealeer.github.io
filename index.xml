@@ -7,7 +7,7 @@
     <description>Xiang Li | 李想</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lixiang521.com/media/icon_hua6c05f0c482061ef168fae8823b6b04c_506812_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Xiang Li | 李想</title>
       <link>https://lixiang521.com/</link>
     </image>
@@ -17,6 +17,29 @@
       <link>https://lixiang521.com/publication/security23/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/zh/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
@@ -68,11 +91,63 @@
     </item>
     
     <item>
+      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
+      <link>https://lixiang521.com/zh/publication/ndss23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ndss23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
+&lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (9)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html#CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaraDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30257&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Invited to MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
       <link>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</link>
       <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</guid>
       <description>&lt;p&gt;On July 25, I was invited to MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022.&lt;/p&gt;
+&lt;p&gt;Event details:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Illuminarium at Area 15, Las Vegas&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Who is the event for&lt;/strong&gt;: MSRC’s Most Valuable Researchers (MVRs) and alumni, MSRC strategic partners, the security research community, and Microsoft employees in security engineering, response, and research.&lt;/p&gt;
+&lt;p&gt;Frequently asked questions:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Why am I receiving this email?&lt;/strong&gt; You are receiving this email – an invitation to the MSRC Researcher Celebration 2022 event – because you have been recognized as one of MSRC’s Most Valuable Researchers, have contributed a bounty eligible case to MSRC at some point during the past 4 years, are part of MSRC’s MAPP program, or you have been nominated to receive an invitation from a fellow researcher or Microsoft employee. If you believe you have been invited in error or do not wish to be invited to these types of events, please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; to have your name added to the ‘do not contact’ list.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Will there be transport to the event?&lt;/strong&gt; Yes! When registering please let us know what hotel you will be staying at, and we will use this information to coordinate transport to and from the party. We will endeavor to have multiple options for attendees to arrive and depart throughout the night.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Do I need to eat before I arrive?&lt;/strong&gt; You shouldn’t need to! There will be amazing (and substantial) food and beverages throughout the event with options for vegetarians, vegans, as well as those avoiding gluten and dairy.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I have a +1?&lt;/strong&gt; We’d love for you to introduce us to researchers and potential partners that might not have received an invitation. Feel free to request a +1 when registering but please note that we cannot guarantee additional tickets as space is limited.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I forward this email?&lt;/strong&gt; Please don’t. When registering request a +1, or email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name of the researcher(s) you would like to nominate.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;I’m not attending Black Hat or DEF CON, can I give my ticket to another researcher?&lt;/strong&gt; Tickets are non-transferable, however if you’d like to nominate another researcher to attend the MSRC Researcher Celebration event please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name and email address of the researcher you’d like to nominate – but please ensure that researcher has given you permission to pass their contact information on to us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>受邀参加 MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
+      <link>https://lixiang521.com/zh/event/msrc-blackhat-2022/</link>
+      <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/msrc-blackhat-2022/</guid>
+      <description>&lt;p&gt;在2022年7月25日，受邀参加 MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022。&lt;/p&gt;
 &lt;p&gt;Event details:&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Illuminarium at Area 15, Las Vegas&lt;/p&gt;
@@ -189,16 +264,6 @@
       <guid>https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</guid>
       <description>&lt;p&gt;As one of the delegates from Tsinghua University, I presented our latest research on the IPv6 network security at the &lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THU&lt;/a&gt; and &lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEU&lt;/a&gt; academic communication meeting.&lt;/p&gt;
 &lt;p&gt;Teachers, students, and researchers from the &lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Network Science and Cyberspace&lt;/a&gt; (Tsinghua University), &lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QI-ANXIN Technology Research Institute&lt;/a&gt;, and &lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Cyber Science and Engineering&lt;/a&gt; (Southeast University) attended this meeting and shared their research ideas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</title>
-      <link>https://lixiang521.com/zh/event/thu-seu-communication-2021/</link>
-      <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/event/thu-seu-communication-2021/</guid>
-      <description>&lt;p&gt;作为清华大学网络科学与网络空间研究院的成员之一，在&lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学&lt;/a&gt;与&lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学&lt;/a&gt; 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。&lt;/p&gt;
-&lt;p&gt;来自清华大学&lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;网络科学与网络空间研究院&lt;/a&gt; ，&lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;奇安信技术研究院&lt;/a&gt;和&lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学网络空间安全学院&lt;/a&gt;的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。&lt;/p&gt;
 </description>
     </item>
     
