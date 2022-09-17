@@ -159,15 +159,6 @@
     </item>
     
     <item>
-      <title>2021年第51届IEEE/IFIP国际可靠系统和网络会议 | DSN 2021</title>
-      <link>https://lixiang521.com/zh/event/dsn-2021/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/event/dsn-2021/</guid>
-      <description>&lt;p&gt;在2021年第51届IEEE/IFIP国际可靠系统和网络会议上（线上举办），我分享了论文：Fast IPv6 Network Periphery Discovery and Security Implications。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fast IPv6 Network Periphery Discovery and Security Implications</title>
       <link>https://lixiang521.com/publication/dsn21/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
@@ -220,6 +211,15 @@
       <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</guid>
       <description>&lt;p&gt;In the 4th ICANN DNS Symposium (IDS 2021, virtually) , I presented &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a novel DNS cache poisoning attack&lt;/a&gt; (introduced by Xiaofeng Zheng from our lab) to the audiences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | May 2021</title>
+      <link>https://lixiang521.com/zh/event/ids-2021/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/ids-2021/</guid>
+      <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     
