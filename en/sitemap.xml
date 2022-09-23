@@ -119,6 +119,9 @@
                 href="https://lixiang521.com/publication/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/tags/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -145,6 +148,9 @@
                 href="https://lixiang521.com/publication/security23/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/security23/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -157,6 +163,9 @@
                 hreflang="en"
                 href="https://lixiang521.com/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/zh/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/dns-delegation/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
@@ -197,15 +206,6 @@
                 href="https://lixiang521.com/publication/ndss23/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/zh/publication/ndss23/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lixiang521.com/zh/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lixiang521.com/event/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
     <xhtml:link
@@ -218,9 +218,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/event/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/conference/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
@@ -260,9 +257,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/msrc-blackhat-2022/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/presentation/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
@@ -316,6 +310,12 @@
                 href="https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/dsn-2021/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/publication/dsn21/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -328,6 +328,9 @@
                 hreflang="en"
                 href="https://lixiang521.com/publication/dsn21/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/dsn21/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/internet-measurement/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -529,9 +532,6 @@
                 hreflang="en"
                 href="https://lixiang521.com/project/xmap/"
                 />
-  </url><url>
-    <loc>https://lixiang521.com/zh/project/xmap/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/admin/</loc>
     <xhtml:link

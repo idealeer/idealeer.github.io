@@ -44,37 +44,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
-      <link>https://lixiang521.com/zh/publication/ndss23/</link>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/publication/ndss23/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
-&lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (9)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html#CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaraDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30257&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
