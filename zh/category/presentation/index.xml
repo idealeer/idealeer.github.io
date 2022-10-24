@@ -5,12 +5,23 @@
     <link>https://lixiang521.com/zh/category/presentation/</link>
       <atom:link href="https://lixiang521.com/zh/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 15 Dec 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://lixiang521.com/zh/category/presentation/</link>
     </image>
+    
+    <item>
+      <title>OARC 39 &amp; 47th CENTR Technical Workshop</title>
+      <link>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</guid>
+      <description>&lt;p&gt;在 &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39 &amp;amp; 47th CENTR Technical Workshop&lt;/a&gt;（线上线下结合），我分享了最新的研究工作&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;现场反馈&#34;&gt;现场反馈&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pentester Academy 工具集｜XMap</title>

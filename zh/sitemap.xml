@@ -198,7 +198,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -208,6 +208,45 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/presentation/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/category/presentation/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/presentation/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/conference/</loc>
@@ -260,32 +299,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/presentation/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/category/presentation/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/category/presentation/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/talk/2021%E5%B9%B4%E7%AC%AC51%E5%B1%8Aieee/ifip%E5%9B%BD%E9%99%85%E5%8F%AF%E9%9D%A0%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BD%91%E7%BB%9C%E4%BC%9A%E8%AE%AE-dsn-2021/</loc>

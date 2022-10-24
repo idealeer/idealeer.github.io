@@ -210,7 +210,7 @@
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/event/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -220,6 +220,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lixiang521.com/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/tag/presentation/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/category/presentation/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/presentation/"
                 />
   </url><url>
     <loc>https://lixiang521.com/tag/conference/</loc>
@@ -267,32 +306,6 @@
     <loc>https://lixiang521.com/zh/event/the-tool-box-xmap-2021/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lixiang521.com/tag/presentation/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/category/presentation/</loc>
-    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/category/presentation/"
-                />
-  </url><url>
     <loc>https://lixiang521.com/talk/the-tool-box-xmap/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -319,6 +332,9 @@
                 href="https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/dsn-2021/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lixiang521.com/publication/dsn21/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -331,6 +347,9 @@
                 hreflang="en"
                 href="https://lixiang521.com/publication/dsn21/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/dsn21/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/internet-measurement/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -423,9 +442,6 @@
                 href="https://lixiang521.com/talk/icann-dns-symposium-may-2021/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/zh/event/ids-2021/</loc>
-    <lastmod>2021-05-25T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -438,6 +454,9 @@
                 hreflang="en"
                 href="https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</loc>
+    <lastmod>2021-04-24T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lixiang521.com/tag/academic-communication/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>

@@ -5,12 +5,23 @@
     <link>https://lixiang521.com/category/presentation/</link>
       <atom:link href="https://lixiang521.com/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Wed, 15 Dec 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2022 Xiang Li</copyright><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://lixiang521.com/category/presentation/</link>
     </image>
+    
+    <item>
+      <title>OARC 39 &amp; 47th CENTR Technical Workshop</title>
+      <link>https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39 &amp;amp; 47th CENTR Technical Workshop&lt;/a&gt; (hybrid in-person and online workshop), I presented a novel Ghost Domain attack named &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phoenix Domain&lt;/a&gt; to the audiences.&lt;/p&gt;
+&lt;h3 id=&#34;feedback-from-workshops&#34;&gt;Feedback from workshops&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pentester Academy 工具集｜XMap</title>
@@ -42,20 +53,20 @@
     </item>
     
     <item>
+      <title>2021年第51届IEEE/IFIP国际可靠系统和网络会议 | DSN 2021</title>
+      <link>https://lixiang521.com/zh/event/dsn-2021/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/dsn-2021/</guid>
+      <description>&lt;p&gt;在2021年第51届IEEE/IFIP国际可靠系统和网络会议上（线上举办），我分享了论文：Fast IPv6 Network Periphery Discovery and Security Implications。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ICANN DNS Symposium | May 2021</title>
       <link>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</link>
       <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</guid>
       <description>&lt;p&gt;In the 4th ICANN DNS Symposium (IDS 2021, virtually) , I presented &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a novel DNS cache poisoning attack&lt;/a&gt; (introduced by Xiaofeng Zheng from our lab) to the audiences.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICANN DNS 研讨会 | May 2021</title>
-      <link>https://lixiang521.com/zh/event/ids-2021/</link>
-      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/event/ids-2021/</guid>
-      <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     
@@ -66,6 +77,16 @@
       <guid>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</guid>
       <description>&lt;p&gt;In the 2021 West Lake Cybersecurity Conference, I presented the IPv6 network scanner &lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; to the audiences.&lt;/p&gt;
 &lt;p&gt;Our colleagues Kaiwen, Chuhan, and Jianyu presented their fake emails checking tool: &lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021 西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展</title>
+      <link>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</link>
+      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</guid>
+      <description>&lt;p&gt;在2021年西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展中，我们展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。&lt;/p&gt;
+&lt;p&gt;我们的同行凯文、楚涵、建宇，演示了他们的伪造邮件检测工具：&lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     
