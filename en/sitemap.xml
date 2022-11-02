@@ -4,6 +4,7 @@
   <url>
     <loc>https://lixiang521.com/publication-type/1/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -17,6 +18,7 @@
   </url><url>
     <loc>https://lixiang521.com/categories/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -30,6 +32,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/dns/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -43,6 +46,7 @@
   </url><url>
     <loc>https://lixiang521.com/category/dns/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -56,6 +60,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/dns-bailiwick-rule/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -69,6 +74,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/dns-cache-poisoning/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -82,6 +88,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/dns-security/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -95,6 +102,7 @@
   </url><url>
     <loc>https://lixiang521.com/publication_types/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -108,6 +116,7 @@
   </url><url>
     <loc>https://lixiang521.com/publication/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -119,8 +128,13 @@
                 href="https://lixiang521.com/publication/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tags/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -134,6 +148,7 @@
   </url><url>
     <loc>https://lixiang521.com/publication/security23/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -145,8 +160,13 @@
                 href="https://lixiang521.com/publication/security23/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/security23/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -158,8 +178,13 @@
                 href="https://lixiang521.com/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tag/dns-delegation/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -173,6 +198,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/dns-revocation/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -186,6 +212,7 @@
   </url><url>
     <loc>https://lixiang521.com/publication/ndss23/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -199,15 +226,11 @@
   </url><url>
     <loc>https://lixiang521.com/zh/publication/ndss23/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lixiang521.com/zh/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/event/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -219,8 +242,13 @@
                 href="https://lixiang521.com/event/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -232,8 +260,13 @@
                 href="https://lixiang521.com/talk/oarc-39-47th-centr-technical-workshop/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/oarc-39/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tag/presentation/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -247,6 +280,7 @@
   </url><url>
     <loc>https://lixiang521.com/category/presentation/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -260,6 +294,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/conference/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -273,6 +308,7 @@
   </url><url>
     <loc>https://lixiang521.com/category/conference/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -286,6 +322,7 @@
   </url><url>
     <loc>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -297,8 +334,17 @@
                 href="https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/msrc-blackhat-2022/</loc>
+    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/the-tool-box-xmap-2021/</loc>
+    <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/talk/the-tool-box-xmap/</loc>
     <lastmod>2021-12-15T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -312,6 +358,7 @@
   </url><url>
     <loc>https://lixiang521.com/talk/2021-51st-annual-ieee/ifip-international-conference-on-dependable-systems-and-networks-virtual-event-dsn-2021/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -325,12 +372,11 @@
   </url><url>
     <loc>https://lixiang521.com/zh/event/dsn-2021/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/publication/dsn21/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -342,8 +388,13 @@
                 href="https://lixiang521.com/publication/dsn21/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/dsn21/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tag/internet-measurement/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -357,6 +408,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/ipv6/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -370,6 +422,7 @@
   </url><url>
     <loc>https://lixiang521.com/category/ipv6/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -383,6 +436,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/ipv6-network-periphery/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -396,6 +450,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/ipv6-security/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -409,6 +464,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/routing-loop-attack/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -422,6 +478,7 @@
   </url><url>
     <loc>https://lixiang521.com/talk/icann-dns-symposium-may-2021/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -435,9 +492,11 @@
   </url><url>
     <loc>https://lixiang521.com/zh/event/ids-2021/</loc>
     <lastmod>2021-05-25T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/talk/2021-west-lake-cybersecurity-conference-cyberspace-security-tools-presentation/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -451,9 +510,11 @@
   </url><url>
     <loc>https://lixiang521.com/zh/event/west-lake-cyberspace-conf-2021/</loc>
     <lastmod>2021-04-24T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/tag/academic-communication/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -467,6 +528,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/speech/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -480,6 +542,7 @@
   </url><url>
     <loc>https://lixiang521.com/category/speech/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -493,6 +556,7 @@
   </url><url>
     <loc>https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/</loc>
     <lastmod>2021-04-17T11:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -504,8 +568,13 @@
                 href="https://lixiang521.com/talk/speech-of-the-dsn-21-paper-fast-ipv6-network-periphery-discovery-and-security-implications/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/event/thu-seu-communication-2021/</loc>
+    <lastmod>2021-04-17T11:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/project/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -519,6 +588,7 @@
   </url><url>
     <loc>https://lixiang521.com/tag/xmap/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -532,6 +602,7 @@
   </url><url>
     <loc>https://lixiang521.com/project/xmap/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -545,8 +616,10 @@
   </url><url>
     <loc>https://lixiang521.com/zh/project/xmap/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/admin/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -559,5 +632,6 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/admin/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
