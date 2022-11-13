@@ -212,8 +212,22 @@
                 href="https://lixiang521.com/zh/publication/ndss23/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</loc>
+    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -224,6 +238,34 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/conference/</loc>
+    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/conference/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/category/conference/</loc>
+    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/conference/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</loc>
@@ -266,34 +308,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/category/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/conference/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tag/conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tag/conference/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/category/conference/</loc>
-    <lastmod>2022-08-10T07:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/category/conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/category/conference/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</loc>

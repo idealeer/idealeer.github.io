@@ -5,12 +5,30 @@
     <link>https://lixiang521.com/tag/conference/</link>
       <atom:link href="https://lixiang521.com/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 07:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
       <link>https://lixiang521.com/tag/conference/</link>
     </image>
+    
+    <item>
+      <title>2022 29th ACM Conference on Computer and Communications Security | CCS 2022</title>
+      <link>https://lixiang521.com/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</link>
+      <pubDate>Mon, 07 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</guid>
+      <description>&lt;p&gt;During November 7-11, 2022, I attended ACM CCS 2022 in person and knew and met many friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022 29th ACM Conference on Computer and Communications Security | CCS 2022</title>
+      <link>https://lixiang521.com/zh/event/ccs-2022/</link>
+      <pubDate>Mon, 07 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/ccs-2022/</guid>
+      <description>&lt;p&gt;在2022年11月7日至11日，到现场参加了CCS 2022大会，认识了很多小伙伴！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited to MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
