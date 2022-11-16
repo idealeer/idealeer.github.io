@@ -228,6 +228,70 @@
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lixiang521.com/event/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lixiang521.com/talk/icann-dns-symposium-november-2022/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/icann-dns-symposium-november-2022/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/ids-2022/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lixiang521.com/tag/presentation/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/category/presentation/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/presentation/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</loc>
     <lastmod>2022-11-07T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,24 +307,6 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/ccs-2022/</loc>
-    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lixiang521.com/event/</loc>
-    <lastmod>2022-11-07T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/event/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/</loc>
     <lastmod>2022-11-07T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -309,34 +355,6 @@
     <loc>https://lixiang521.com/zh/event/oarc-39/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lixiang521.com/tag/presentation/</loc>
-    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/category/presentation/</loc>
-    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/category/presentation/"
-                />
   </url><url>
     <loc>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-2022/</loc>
     <lastmod>2022-08-10T07:00:00+00:00</lastmod>
@@ -500,7 +518,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-may-2021/"
+                href="https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2021%E5%B9%B45%E6%9C%88/"
                 />
     <xhtml:link
                 rel="alternate"

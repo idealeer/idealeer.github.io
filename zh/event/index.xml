@@ -5,12 +5,21 @@
     <link>https://lixiang521.com/zh/event/</link>
       <atom:link href="https://lixiang521.com/zh/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 07 Nov 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Nov 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://lixiang521.com/zh/event/</link>
     </image>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | 2022年11月</title>
+      <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</link>
+      <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</guid>
+      <description>&lt;p&gt;在2022年第五届ICANN的DNS研讨会（&lt;a href=&#34;https://www.icann.org/ids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDS 2022&lt;/a&gt;）中，我分享了NDSS &amp;lsquo;23论文&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;，反响热烈。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2022 29th ACM Conference on Computer and Communications Security | CCS 2022</title>
@@ -92,10 +101,10 @@
     </item>
     
     <item>
-      <title>ICANN DNS 研讨会 | May 2021</title>
-      <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-may-2021/</link>
+      <title>ICANN DNS 研讨会 | 2021年5月</title>
+      <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2021%E5%B9%B45%E6%9C%88/</link>
       <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
-      <guid>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-may-2021/</guid>
+      <guid>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2021%E5%B9%B45%E6%9C%88/</guid>
       <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
