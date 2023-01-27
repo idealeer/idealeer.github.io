@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DoS Attack | 李想 | Xiang Li</title>
+    <link>https://lixiang521.com/zh/tag/dos-attack/</link>
+      <atom:link href="https://lixiang521.com/zh/tag/dos-attack/index.xml" rel="self" type="application/rss+xml" />
+    <description>DoS Attack</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>DoS Attack</title>
+      <link>https://lixiang521.com/zh/tag/dos-attack/</link>
+    </image>
+    
+    <item>
+      <title>Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack</title>
+      <link>https://lixiang521.com/zh/publication/security23-2/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack.&lt;/p&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

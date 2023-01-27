@@ -30,6 +30,48 @@
                 href="https://lixiang521.com/categories/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/tag/cdn/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/cdn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/cdn/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/category/cdn/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/cdn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/cdn/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/tag/cdn-security/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/cdn-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/cdn-security/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/tag/dns/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,6 +142,20 @@
                 href="https://lixiang521.com/tag/dns-security/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/tag/dos-attack/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/dos-attack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/dos-attack/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/publication_types/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,6 +201,24 @@
                 hreflang="en"
                 href="https://lixiang521.com/tags/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/publication/security23-2/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication/security23-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication/security23-2/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/security23-2/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/publication/security23/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
