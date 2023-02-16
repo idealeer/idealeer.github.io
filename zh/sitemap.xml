@@ -311,7 +311,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -324,12 +324,22 @@
                 href="https://lixiang521.com/zh/event/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</loc>
-    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <loc>https://lixiang521.com/zh/talk/oarc-40-nanog-87-workshop/</loc>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/oarc-40-nanog-87-workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/oarc-40-nanog-87-workshop/"
+                />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/presentation/</loc>
-    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -343,7 +353,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/category/presentation/</loc>
-    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -355,6 +365,10 @@
                 hreflang="zh"
                 href="https://lixiang521.com/zh/category/presentation/"
                 />
+  </url><url>
+    <loc>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</loc>
+    <lastmod>2022-11-15T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</loc>
     <lastmod>2022-11-07T09:00:00+00:00</lastmod>
