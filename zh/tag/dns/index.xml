@@ -20,7 +20,7 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -42,6 +42,10 @@
       <guid>https://lixiang521.com/zh/publication/sigmetrics23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we present a novel framework, &lt;strong&gt;HostingChecker&lt;/strong&gt; (&lt;strong&gt;DareShark&lt;/strong&gt;), for detecting domain takeovers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented at &lt;a href=&#34;https://indico.dns-oarc.net/event/46/contributions/982/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 40&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -53,7 +57,7 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
 &lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CVE.&lt;/strong&gt; (9)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (9)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
@@ -72,6 +76,18 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Presented at &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented at &lt;a href=&#34;https://www.icann.org/ids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICANN DNS Symposium 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented at &lt;a href=&#34;https://www.blackhat.com/asia-23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat Asia 2023&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>

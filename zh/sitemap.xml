@@ -268,6 +268,20 @@
                 href="https://lixiang521.com/zh/tag/domain-takeover/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/vehiclesec23/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication/vehiclesec23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication/vehiclesec23/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/zh/tag/dns-delegation/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,6 +322,48 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/publication/ndss23/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/vehicle/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/vehicle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/vehicle/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/category/vehicle/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/vehicle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/vehicle/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/vehicle-security/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/vehicle-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/vehicle-security/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
