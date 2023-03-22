@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | 李想 | Xiang Li</title>
+    <link>https://lixiang521.com/zh/tag/conference/</link>
+      <atom:link href="https://lixiang521.com/zh/tag/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 07 Nov 2022 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>Conference</title>
+      <link>https://lixiang521.com/zh/tag/conference/</link>
+    </image>
+    
+    <item>
+      <title>2022 29th ACM Conference on Computer and Communications Security | CCS 2022</title>
+      <link>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</link>
+      <pubDate>Mon, 07 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</guid>
+      <description>&lt;p&gt;在2022年11月7日至11日，到现场参加了CCS 2022大会，认识了很多小伙伴！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>受邀参加 MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
+      <link>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</link>
+      <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</guid>
+      <description>&lt;p&gt;在2022年7月25日，受邀参加 MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022。&lt;/p&gt;
+&lt;p&gt;Event details:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Illuminarium at Area 15, Las Vegas&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Who is the event for&lt;/strong&gt;: MSRC’s Most Valuable Researchers (MVRs) and alumni, MSRC strategic partners, the security research community, and Microsoft employees in security engineering, response, and research.&lt;/p&gt;
+&lt;p&gt;Frequently asked questions:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Why am I receiving this email?&lt;/strong&gt; You are receiving this email – an invitation to the MSRC Researcher Celebration 2022 event – because you have been recognized as one of MSRC’s Most Valuable Researchers, have contributed a bounty eligible case to MSRC at some point during the past 4 years, are part of MSRC’s MAPP program, or you have been nominated to receive an invitation from a fellow researcher or Microsoft employee. If you believe you have been invited in error or do not wish to be invited to these types of events, please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; to have your name added to the ‘do not contact’ list.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Will there be transport to the event?&lt;/strong&gt; Yes! When registering please let us know what hotel you will be staying at, and we will use this information to coordinate transport to and from the party. We will endeavor to have multiple options for attendees to arrive and depart throughout the night.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Do I need to eat before I arrive?&lt;/strong&gt; You shouldn’t need to! There will be amazing (and substantial) food and beverages throughout the event with options for vegetarians, vegans, as well as those avoiding gluten and dairy.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I have a +1?&lt;/strong&gt; We’d love for you to introduce us to researchers and potential partners that might not have received an invitation. Feel free to request a +1 when registering but please note that we cannot guarantee additional tickets as space is limited.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I forward this email?&lt;/strong&gt; Please don’t. When registering request a +1, or email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name of the researcher(s) you would like to nominate.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;I’m not attending Black Hat or DEF CON, can I give my ticket to another researcher?&lt;/strong&gt; Tickets are non-transferable, however if you’d like to nominate another researcher to attend the MSRC Researcher Celebration event please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name and email address of the researcher you’d like to nominate – but please ensure that researcher has given you permission to pass their contact information on to us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

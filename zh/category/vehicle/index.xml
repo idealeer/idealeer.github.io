@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vehicle | 李想 | Xiang Li</title>
+    <link>https://lixiang521.com/zh/category/vehicle/</link>
+      <atom:link href="https://lixiang521.com/zh/category/vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vehicle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>Vehicle</title>
+      <link>https://lixiang521.com/zh/category/vehicle/</link>
+    </image>
+    
+    <item>
+      <title>Demo: Ransom Vehicle through Charging Pile</title>
+      <link>https://lixiang521.com/zh/publication/vehiclesec23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/vehiclesec23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this demo with real EVs and public charging piles, we show a new approach, the Charging Pile Ransom Attack (CPRA), that can remotely ransom EVs through the charging connector between EVs and charging piles.&lt;/p&gt;
+&lt;p&gt;我向听众讲解了CPRA攻击。距离获奖一票之差，下次投票要早一点！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

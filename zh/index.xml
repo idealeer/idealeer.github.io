@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李想 | Xiang Li</title>
+    <link>https://lixiang521.com/zh/</link>
+      <atom:link href="https://lixiang521.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>李想 | Xiang Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>李想 | Xiang Li</title>
+      <link>https://lixiang521.com/zh/</link>
+    </image>
+    
+    <item>
+      <title>Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack</title>
+      <link>https://lixiang521.com/zh/publication/security23-2/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack.&lt;/p&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
+      <link>https://lixiang521.com/zh/publication/security23/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DareShark: Detecting and Measuring Security Risks of Hosting-Based Dangling Domains</title>
+      <link>https://lixiang521.com/zh/publication/sigmetrics23/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/sigmetrics23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present a novel framework, &lt;strong&gt;HostingChecker&lt;/strong&gt; (&lt;strong&gt;DareShark&lt;/strong&gt;), for detecting domain takeovers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/46/contributions/982/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 40&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023年第30届网络与分布式系统安全会议 | NDSS 2023</title>
+      <link>https://lixiang521.com/zh/talk/2023%E5%B9%B4%E7%AC%AC30%E5%B1%8A%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE-ndss-2023/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2023%E5%B9%B4%E7%AC%AC30%E5%B1%8A%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE-ndss-2023/</guid>
+      <description>&lt;p&gt;在2023年第30届网络与分布式系统安全会议上，我分享了我们关于DNS最新的研究工作（Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation）以及诸葛老师组的展板（Demo: Ransom Vehicle through Charging Pile）。开会期间，见到了去年在我们组访问的秦悦（和悦姐畅聊！），也认识了很多新朋友和老师（UCI，IU，UCR，PU，皇马老家马德里的IMDEA）。最后，代替杨家海老师团队领取了最佳论文奖（1/2），很厉害的工作，感受了领奖的氛围。&lt;/p&gt;
+&lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./group.jpeg&#34; alt=&#34;group&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./t-shirt.jpeg&#34; alt=&#34;t-shirt&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./poster.jpeg&#34; alt=&#34;poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./bird.jpeg&#34; alt=&#34;bird&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./beach.jpeg&#34; alt=&#34;beach&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./dinner.jpeg&#34; alt=&#34;dinner&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./hiking.jpeg&#34; alt=&#34;hiking&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./award.jpeg&#34; alt=&#34;award&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./celebration.jpeg&#34; alt=&#34;celebration&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demo: Ransom Vehicle through Charging Pile</title>
+      <link>https://lixiang521.com/zh/publication/vehiclesec23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/vehiclesec23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this demo with real EVs and public charging piles, we show a new approach, the Charging Pile Ransom Attack (CPRA), that can remotely ransom EVs through the charging connector between EVs and charging piles.&lt;/p&gt;
+&lt;p&gt;我向听众讲解了CPRA攻击。距离获奖一票之差，下次投票要早一点！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation</title>
+      <link>https://lixiang521.com/zh/publication/ndss23/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ndss23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;Phoenix Domain&lt;/strong&gt;, a general and novel attack that allows adversaries to maintain the revoked malicious domain continuously resolvable at scale, which enables an old, mitigated attack, Ghost Domain.&lt;/p&gt;
+&lt;p&gt;Phoenix Domain: &lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phoenixdomain.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (9)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Knot Resolver: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30250&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30251&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PowerDNS Recursor: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30252&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simple DNS Plus: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30254&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://maradns.samiam.org/security.html#CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaraDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30256&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30257&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30258&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30258&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.nlnetlabs.nl/projects/unbound/security-advisories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30698&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-30699&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://www.icann.org/ids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICANN DNS Symposium 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://www.blackhat.com/asia-23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat Asia 2023&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Referenced in &lt;a href=&#34;https://datatracker.ietf.org/doc/html/draft-ietf-dnsop-ns-revalidation-04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC Draft: Delegation Revalidation by DNS Resolvers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OARC 40 &amp; NANOG 87 Workshop</title>
+      <link>https://lixiang521.com/zh/talk/oarc-40-nanog-87-workshop/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/oarc-40-nanog-87-workshop/</guid>
+      <description>&lt;p&gt;在 &lt;a href=&#34;https://indico.dns-oarc.net/event/46/contributions/982/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 40 &amp;amp; NANOG 87 Workshop&lt;/a&gt;（线上线下结合），我分享了明明最新的研究工作：域名接管。&lt;/p&gt;
+&lt;h3 id=&#34;现场反馈&#34;&gt;现场反馈&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | 2022年11月</title>
+      <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</link>
+      <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</guid>
+      <description>&lt;p&gt;在2022年第五届ICANN的DNS研讨会（&lt;a href=&#34;https://www.icann.org/ids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDS 2022&lt;/a&gt;）中，我分享了NDSS &amp;lsquo;23论文&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;，反响热烈。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022 29th ACM Conference on Computer and Communications Security | CCS 2022</title>
+      <link>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</link>
+      <pubDate>Mon, 07 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2022-29th-acm-conference-on-computer-and-communications-security-ccs-2022/</guid>
+      <description>&lt;p&gt;在2022年11月7日至11日，到现场参加了CCS 2022大会，认识了很多小伙伴！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OARC 39 &amp; 47th CENTR Technical Workshop</title>
+      <link>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/oarc-39-47th-centr-technical-workshop/</guid>
+      <description>&lt;p&gt;在 &lt;a href=&#34;https://indico.dns-oarc.net/event/44/contributions/953/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 39 &amp;amp; 47th CENTR Technical Workshop&lt;/a&gt;（线上线下结合），我分享了最新的研究工作&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;现场反馈&#34;&gt;现场反馈&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>受邀参加 MSRC&#39;s Researcher Celebration at Black Hat 2022</title>
+      <link>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</link>
+      <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</guid>
+      <description>&lt;p&gt;在2022年7月25日，受邀参加 MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022。&lt;/p&gt;
+&lt;p&gt;Event details:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Illuminarium at Area 15, Las Vegas&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Who is the event for&lt;/strong&gt;: MSRC’s Most Valuable Researchers (MVRs) and alumni, MSRC strategic partners, the security research community, and Microsoft employees in security engineering, response, and research.&lt;/p&gt;
+&lt;p&gt;Frequently asked questions:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Why am I receiving this email?&lt;/strong&gt; You are receiving this email – an invitation to the MSRC Researcher Celebration 2022 event – because you have been recognized as one of MSRC’s Most Valuable Researchers, have contributed a bounty eligible case to MSRC at some point during the past 4 years, are part of MSRC’s MAPP program, or you have been nominated to receive an invitation from a fellow researcher or Microsoft employee. If you believe you have been invited in error or do not wish to be invited to these types of events, please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; to have your name added to the ‘do not contact’ list.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Will there be transport to the event?&lt;/strong&gt; Yes! When registering please let us know what hotel you will be staying at, and we will use this information to coordinate transport to and from the party. We will endeavor to have multiple options for attendees to arrive and depart throughout the night.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Do I need to eat before I arrive?&lt;/strong&gt; You shouldn’t need to! There will be amazing (and substantial) food and beverages throughout the event with options for vegetarians, vegans, as well as those avoiding gluten and dairy.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I have a +1?&lt;/strong&gt; We’d love for you to introduce us to researchers and potential partners that might not have received an invitation. Feel free to request a +1 when registering but please note that we cannot guarantee additional tickets as space is limited.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Can I forward this email?&lt;/strong&gt; Please don’t. When registering request a +1, or email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name of the researcher(s) you would like to nominate.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;I’m not attending Black Hat or DEF CON, can I give my ticket to another researcher?&lt;/strong&gt; Tickets are non-transferable, however if you’d like to nominate another researcher to attend the MSRC Researcher Celebration event please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; with the name and email address of the researcher you’d like to nominate – but please ensure that researcher has given you permission to pass their contact information on to us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pentester Academy 工具集｜XMap</title>
+      <link>https://lixiang521.com/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/</link>
+      <pubDate>Wed, 15 Dec 2021 08:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/pentester-academy-%E5%B7%A5%E5%85%B7%E9%9B%86xmap/</guid>
+      <description>&lt;p&gt;在&lt;a href=&#34;https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Pentester Academy TV&lt;/a&gt;，与&lt;a href=&#34;https://twitter.com/DamianGoh13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@DamianGoh13&lt;/a&gt;一道，我展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。新功能即将发布。&lt;/p&gt;
+&lt;p&gt;视频链接：&lt;a href=&#34;https://www.youtube.com/watch?v=wgdFham6P2Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021年第51届IEEE/IFIP国际可靠系统和网络会议 | DSN 2021</title>
+      <link>https://lixiang521.com/zh/talk/2021%E5%B9%B4%E7%AC%AC51%E5%B1%8Aieee/ifip%E5%9B%BD%E9%99%85%E5%8F%AF%E9%9D%A0%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BD%91%E7%BB%9C%E4%BC%9A%E8%AE%AE-dsn-2021/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2021%E5%B9%B4%E7%AC%AC51%E5%B1%8Aieee/ifip%E5%9B%BD%E9%99%85%E5%8F%AF%E9%9D%A0%E7%B3%BB%E7%BB%9F%E5%92%8C%E7%BD%91%E7%BB%9C%E4%BC%9A%E8%AE%AE-dsn-2021/</guid>
+      <description>&lt;p&gt;在2021年第51届IEEE/IFIP国际可靠系统和网络会议上（线上举办），我分享了论文：Fast IPv6 Network Periphery Discovery and Security Implications。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast IPv6 Network Periphery Discovery and Security Implications</title>
+      <link>https://lixiang521.com/zh/publication/dsn21/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/dsn21/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;在IPv4网络空间中，网络扫描技术具备着巨大的应用前景，可以被用来完成大规模的测量研究工作，诸如多种协议部署的测量、僵尸网络行为的追踪、潜在网络漏洞的发现。然而，IPv6引入了海量的128位地址空间，使得传统的枚举遍历扫描技术变得不太可行。即便学术界已经针对性地提出了多种有效的IPv6终端地址发现方案，但这些方案仍受到扫描效率和精度的影响，并不能被直接采用来进行IPv6网络空间中的大规模测量研究。&lt;br&gt; 本工作从全新的扫描角度出发，提出了一种新型的IPv6网络扫描技术，用于发现位于网络拓扑中重要位置的IPv6网络边界设备，同时设计并实现了全新的IPv6网络扫描器：&lt;em&gt;XMap&lt;/em&gt;，可被用来进行大规模的扫描探测工作。通过利用XMap，本工作在若干个运营商的网络环境下发现了数以千万计的IPv6网络边界设备，并对其暴露的关键网络服务进行了深入的安全分析。此外，利用XMap，本工作发现了一个普遍存在的通用型路由循环漏洞（影响数十家路由器厂商），申请到了多于109个漏洞编号，并向厂商提供了合理的披露和有效的修复方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号：CNVD/CNNVD/CVE&lt;/strong&gt; (109/2/22)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03270&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03271&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03271&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03291&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03312&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03318&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03320&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03320&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03326&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03327&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03328&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03328&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03331&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03375&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03375&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03376&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03376&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03380&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03399&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03423&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03424&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03425&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03425&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03473&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03495&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03503&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03505&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03505&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03507&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03508&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03511&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03511&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04817&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04817&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04818&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04818&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04829&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04829&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04830&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05370&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05371&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05371&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05372&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05373&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05373&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05374&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05375&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05375&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05380&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05435&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05435&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05470&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05470&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05472&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05492&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05492&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05493&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05493&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06623&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06623&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06624&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06625&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06626&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06626&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06627&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06628&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06629&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08384&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08385&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08385&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08386&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08386&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08387&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08387&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08389&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08390&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08391&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08391&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08394&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08395&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10397&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10398&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10399&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10400&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10401&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10401&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10402&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10404&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10405&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10406&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10407&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10407&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10408&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10409&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10410&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10412&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10412&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10413&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10414&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10415&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10416&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10417&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10417&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10418&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10419&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10419&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10420&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10420&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10421&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10421&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10422&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10423&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10424&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10425&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10425&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12861&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12883&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12886&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12886&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12887&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12887&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12890&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13251&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13252&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13253&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13253&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13255&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13256&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13257&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13259&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13259&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13260&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13261&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13261&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13469&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13469&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-16327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-16327&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-16400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-16400&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29189&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29190&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29191&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29191&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29195&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29195&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202102-570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202102-570&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202103-1624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202103-1624&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-652&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-659&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-697&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-697&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3107&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3108&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3112&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3112&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3125&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3128&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3173&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3379&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3379&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21727&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-21727&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22161&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22162&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22163&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22164&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22164&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22165&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23238&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23238&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23268&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23269&lt;/a&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23270&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23831&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23832&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23833&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23833&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23834&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23834&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23898&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23898&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICANN DNS 研讨会 | 2021年5月</title>
+      <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2021%E5%B9%B45%E6%9C%88/</link>
+      <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2021%E5%B9%B45%E6%9C%88/</guid>
+      <description>&lt;p&gt;在2021年第四届ICANN的DNS线上研讨会中，我介绍了实验室晓峰师兄所提出了的一种&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity20/presentation/zheng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;新型DNS缓存污染攻击&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021 西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展</title>
+      <link>https://lixiang521.com/zh/talk/2021-%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%B1%8A%E5%9B%BD%E4%BA%A7%E4%BC%98%E7%A7%80%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7%E4%B8%BB%E9%A2%98%E5%B1%95/</link>
+      <pubDate>Sat, 24 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2021-%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%A4%A7%E4%BC%9A%E9%A6%96%E5%B1%8A%E5%9B%BD%E4%BA%A7%E4%BC%98%E7%A7%80%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7%E4%B8%BB%E9%A2%98%E5%B1%95/</guid>
+      <description>&lt;p&gt;在2021年西湖论剑·网络安全大会：首届国产优秀网络安全工具主题展中，我们展示了&lt;a href=&#34;https://idealeer.github.io/project/xmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 扫描器工具。&lt;/p&gt;
+&lt;p&gt;我们的同行凯文、楚涵、建宇，演示了他们的伪造邮件检测工具：&lt;a href=&#34;https://github.com/mo-xiaoxi/ESpoofing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESpoofing&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学术交流报告：没有不可能，快速IPv6边界设备发现技术及其安全应用</title>
+      <link>https://lixiang521.com/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Sat, 17 Apr 2021 11:40:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E6%8A%A5%E5%91%8A%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BF%AB%E9%80%9Fipv6%E8%BE%B9%E7%95%8C%E8%AE%BE%E5%A4%87%E5%8F%91%E7%8E%B0%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8/</guid>
+      <description>&lt;p&gt;作为清华大学网络科学与网络空间研究院的成员之一，在&lt;a href=&#34;https://www.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;清华大学&lt;/a&gt;与&lt;a href=&#34;https://www.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学&lt;/a&gt; 的学术交流活动中，我分享了我们在IPv6安全领域最新的研究成果。&lt;/p&gt;
+&lt;p&gt;来自清华大学&lt;a href=&#34;http://www.insc.tsinghua.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;网络科学与网络空间研究院&lt;/a&gt; ，&lt;a href=&#34;https://research.qianxin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;奇安信技术研究院&lt;/a&gt;和&lt;a href=&#34;https://cyber.seu.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;东南大学网络空间安全学院&lt;/a&gt;的师生、研究人员参加了此次学术交流活动并分享了最新的研究成果。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>网络扫描器：XMap</title>
+      <link>https://lixiang521.com/zh/project/xmap/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/project/xmap/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 是一款兼含 IPv6 与 IPv4 网络空间探测功能的快速扫描器，并且也是第一款学术界+工业界中专门用于 IPv6 资产快速扫描的工具。其参考 ZMap 的原理进行开发，从底层完全改写了 ZMap 的核心代码，将 ZMap 在 IPv4 网络空间的多种扫描优势移植到 IPv6 空间，并且结合我们自身最新的研究发现，增添了 IPv6 设备快速发现技术以及多端口扫描功能，且完全兼容 ZMap，具备“5分钟”扫描32位网络空间的能力。&lt;/p&gt;
+&lt;p&gt;XMap 适用于 GNU/Linux，Mac OS 和 BSD 操作系统，已经支持 ICMP Echo，TCP SYN 和 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/examples/udp-probes/README&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDP&lt;/a&gt; 扫描。&lt;/p&gt;
+&lt;p&gt;结合应用层扫描工具 &lt;a href=&#34;https://github.com/zmap/zgrab2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZGrab2&lt;/a&gt;, XMap 可以发挥更多的扫描功能。&lt;/p&gt;
+&lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
+&lt;p&gt;XMap 最新版本为 v1.0.0，目前仅支持编译安装。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装步骤&lt;/strong&gt;详见 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/INSTALL.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSTALL&lt;/a&gt; 文件。&lt;/p&gt;
+&lt;h3 id=&#34;使用&#34;&gt;使用&lt;/h3&gt;
+&lt;p&gt;XMap &lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;详细使用步骤见 &lt;a href=&#34;https://github.com/idealeer/xmap/wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Wiki&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;简易实用命令见 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/src/xmap.1.ronn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;USAGE&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;论文&#34;&gt;论文&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://idealeer.github.io/publication/dsn21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fast IPv6 Network Periphery Discovery and Security Implications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; Numerous measurement researches have been performed to discover the IPv4 network security issues by leveraging the fast Internet-wide scanning techniques. However, IPv6 brings the 128-bits address space and renders brute-force network scanning impractical. Although significant efforts have been dedicated to enumerating active IPv6 hosts, limited by technique efficiency and probing accuracy, large-scale empirical measurement studies under the increasing IPv6 networks are infeasible now.&lt;/p&gt;
+&lt;p&gt;To fill this research gap, by leveraging the extensively adopted IPv6 address allocation strategy, we propose a novel IPv6 network periphery discovery approach. Specifically, &lt;em&gt;XMap&lt;/em&gt;, a fast network scanner, is developed to find the periphery, such as a home router. We evaluate it on twelve prominent Internet service providers and harvest &lt;em&gt;52M&lt;/em&gt; active peripheries. Grounded on these found devices, we explore IPv6 network risks of the unintended exposed security services and the flawed traffic routing strategies. First, we demonstrate the unintended exposed security services in IPv6 networks, such as DNS, and HTTP, have become emerging security risks by analyzing &lt;em&gt;4.7M&lt;/em&gt; peripheries. Second, by inspecting the periphery’s packet routing strategies, we present the flawed implementations of IPv6 routing protocol affecting &lt;em&gt;5.8M&lt;/em&gt; router devices. Attackers can exploit this common vulnerability to conduct effective routing loop attacks, inducing DoS to the ISP’s and home routers with an amplification factor of &amp;gt;&lt;em&gt;200&lt;/em&gt;. We responsibly disclose those issues to all involved vendors and ASes and discuss mitigation solutions. Our research results indicate that the security community should revisit IPv6 network strategies immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors.&lt;/strong&gt; &lt;a href=&#34;https://netsec.ccert.edu.cn/people/lx19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xiang Li&lt;/a&gt;, &lt;a href=&#34;https://netsec.ccert.edu.cn/people/lbj20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baojun Liu&lt;/a&gt;, Xiaofeng Zheng, &lt;a href=&#34;https://netsec.ccert.edu.cn/people/duanhx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haixin Duan&lt;/a&gt;, &lt;a href=&#34;https://netsec.ccert.edu.cn/people/qli/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qi Li&lt;/a&gt;, Youjun Huang.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference.&lt;/strong&gt; Proceedings of the 2021 IEEE/IFIP International Conference on Dependable Systems and Networks (&lt;a href=&#34;http://dsn2021.ntu.edu.tw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DSN &amp;lsquo;21&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper.&lt;/strong&gt; &lt;a href=&#34;https://idealeer.github.io/publication/dsn21/dsn21-ipv6-paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[PDF]&lt;/a&gt;, &lt;a href=&#34;http://idealeer.github.io/publication/dsn21/dsn21-ipv6-slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Slides]&lt;/a&gt; and [Video].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CNVD/CNNVD/CVE.&lt;/strong&gt; (109/2/22)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03270&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03271&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03271&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03291&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03312&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03318&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03320&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03320&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03326&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03327&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03328&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03328&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03331&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03375&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03375&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03376&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03376&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03380&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03399&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03423&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03424&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03425&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03425&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03473&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03495&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03503&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03505&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03505&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03507&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03508&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03511&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03511&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04817&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04817&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04818&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04818&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04829&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04829&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-04830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-04830&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05370&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05370&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05371&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05371&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05372&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05373&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05373&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05374&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05375&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05375&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05380&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05435&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05435&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05470&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05470&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05472&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05492&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05492&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-05493&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-05493&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06623&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06623&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06624&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06625&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06626&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06626&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06627&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06628&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-06629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-06629&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08384&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08385&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08385&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08386&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08386&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08387&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08387&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08389&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08390&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08391&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08391&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08394&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-08395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-08395&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10397&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10398&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10399&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10400&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10401&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10401&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10402&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10404&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10405&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10406&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10407&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10407&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10408&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10409&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10410&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10412&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10412&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10413&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10414&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10415&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10416&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10416&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10417&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10417&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10418&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10419&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10419&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10420&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10420&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10421&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10421&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10422&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10423&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10424&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-10425&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-10425&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12861&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12883&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12886&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12886&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12887&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12887&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-12890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-12890&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13251&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13252&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13253&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13253&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13255&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13256&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13257&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13259&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13259&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13260&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13261&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13261&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-13469&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-13469&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-16327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-16327&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-16400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-16400&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29189&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29190&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29191&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29191&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-29195&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-29195&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202102-570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202102-570&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202103-1624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202103-1624&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-652&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-659&lt;/a&gt; &lt;a href=&#34;http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-697&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202104-697&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3107&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3108&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3112&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3112&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3125&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3128&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3173&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3379&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-3379&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21727&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-21727&lt;/a&gt;&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22161&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22162&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22163&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22164&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22164&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-22165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-22165&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23238&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23238&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23268&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23269&lt;/a&gt; &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23270&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23831&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23832&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23833&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23833&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23834&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23834&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23898&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-23898&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lixiang521.com/zh/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
