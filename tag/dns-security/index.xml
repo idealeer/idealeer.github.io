@@ -5,12 +5,34 @@
     <link>https://lixiang521.com/tag/dns-security/</link>
       <atom:link href="https://lixiang521.com/tag/dns-security/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>DNS Security</title>
       <link>https://lixiang521.com/tag/dns-security/</link>
     </image>
+    
+    <item>
+      <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
+      <link>https://lixiang521.com/publication/ccs23/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/ccs23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
+      <link>https://lixiang521.com/zh/publication/ccs23/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ccs23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scanning | 李想 | Xiang Li</title>
+    <link>https://lixiang521.com/zh/tag/scanning/</link>
+      <atom:link href="https://lixiang521.com/zh/tag/scanning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scanning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>Scanning</title>
+      <link>https://lixiang521.com/zh/tag/scanning/</link>
+    </image>
+    
+    <item>
+      <title>Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild</title>
+      <link>https://lixiang521.com/zh/publication/ccs23-2/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ccs23-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present a stealthy mining pool detection system.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

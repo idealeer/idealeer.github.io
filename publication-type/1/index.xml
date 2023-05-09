@@ -5,12 +5,56 @@
     <link>https://lixiang521.com/publication-type/1/</link>
       <atom:link href="https://lixiang521.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://lixiang521.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
+      <link>https://lixiang521.com/publication/ccs23/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/ccs23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
+      <link>https://lixiang521.com/zh/publication/ccs23/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ccs23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild</title>
+      <link>https://lixiang521.com/publication/ccs23-2/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/ccs23-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present a stealthy mining pool detection system.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild</title>
+      <link>https://lixiang521.com/zh/publication/ccs23-2/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ccs23-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we present a stealthy mining pool detection system.&lt;/p&gt;
+&lt;p&gt;More details coming soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack</title>
