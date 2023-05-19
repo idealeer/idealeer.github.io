@@ -20,6 +20,18 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
 &lt;p&gt;More details coming soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Mikrotik&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-24711&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;PowerDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24712&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-24712&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-1103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-28455&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -31,6 +43,18 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
 &lt;p&gt;More details coming soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Mikrotik&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-24711&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;PowerDNS&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-24712&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-24712&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-1103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-28455&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
