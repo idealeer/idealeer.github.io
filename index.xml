@@ -115,13 +115,39 @@
     </item>
     
     <item>
+      <title>2023年第32届USENIX安全探讨会｜USENIX Security 2023</title>
+      <link>https://lixiang521.com/zh/event/usenix-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/usenix-2023/</guid>
+      <description>&lt;p&gt;在2023年第32届USENIX安全探讨会上，我分享了最新研究工作：“The Maginot Line: Attacking the Boundary of DNS Caching Protection”，也见到和交到了很多朋友。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>32nd USENIX Security Symposium 2023 | USENIX Security 2023</title>
+      <link>https://lixiang521.com/talk/32nd-usenix-security-symposium-2023-usenix-security-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/32nd-usenix-security-symposium-2023-usenix-security-2023/</guid>
+      <description>&lt;p&gt;In the 2023 32nd USENIX Security Symposium, I presented one paper &amp;ldquo;The Maginot Line: Attacking the Boundary of DNS Caching Protection&amp;rdquo; to the audiences. I met many old friends and made many new friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black Hat USA 2023</title>
+      <link>https://lixiang521.com/talk/black-hat-usa-2023/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/black-hat-usa-2023/</guid>
+      <description>&lt;p&gt;In Black Hat USA 2023, Professor Zhou Li presented our work: &amp;ldquo;The Maginot Line: Attacking the Boundary of DNS Caching Protection&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack</title>
       <link>https://lixiang521.com/publication/security23-2/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/publication/security23-2/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack.&lt;/p&gt;
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -132,7 +158,6 @@
       <guid>https://lixiang521.com/zh/publication/security23-2/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack.&lt;/p&gt;
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -155,6 +180,10 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://www.blackhat.com/us-23/briefings/schedule/index.html#maginotdns-attacking-the-boundary-of-dns-caching-protection-31901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2023&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -179,6 +208,19 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://www.blackhat.com/us-23/briefings/schedule/index.html#maginotdns-attacking-the-boundary-of-dns-caching-protection-31901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>黑帽大会2023（美国）</title>
+      <link>https://lixiang521.com/zh/event/bhu-2023/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/bhu-2023/</guid>
+      <description>&lt;p&gt;在黑帽大会2023（美国）上, 李洲助理教授分享了我们的研究工作：“The Maginot Line: Attacking the Boundary of DNS Caching Protection”。&lt;/p&gt;
 </description>
     </item>
     
@@ -395,7 +437,7 @@
       <link>https://lixiang521.com/zh/event/bha-2023/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/event/bha-2023/</guid>
-      <description>&lt;p&gt;在黑帽大会2023（亚洲）上, 我分享了研究工作：“Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation”.&lt;/p&gt;
+      <description>&lt;p&gt;在黑帽大会2023（亚洲）上, 我分享了研究工作：“Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation”。&lt;/p&gt;
 &lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
 &lt;p&gt;
 

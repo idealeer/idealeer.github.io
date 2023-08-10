@@ -5,7 +5,7 @@
     <link>https://lixiang521.com/zh/tag/presentation/</link>
       <atom:link href="https://lixiang521.com/zh/tag/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>2023年第32届USENIX安全探讨会｜USENIX Security 2023</title>
+      <link>https://lixiang521.com/zh/talk/2023%E5%B9%B4%E7%AC%AC32%E5%B1%8Ausenix%E5%AE%89%E5%85%A8%E6%8E%A2%E8%AE%A8%E4%BC%9Ausenix-security-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2023%E5%B9%B4%E7%AC%AC32%E5%B1%8Ausenix%E5%AE%89%E5%85%A8%E6%8E%A2%E8%AE%A8%E4%BC%9Ausenix-security-2023/</guid>
+      <description>&lt;p&gt;在2023年第32届USENIX安全探讨会上，我分享了最新研究工作：“The Maginot Line: Attacking the Boundary of DNS Caching Protection”，也见到和交到了很多朋友。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>黑帽大会2023（美国）</title>
+      <link>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E7%BE%8E%E5%9B%BD/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E7%BE%8E%E5%9B%BD/</guid>
+      <description>&lt;p&gt;在黑帽大会2023（美国）上, 李洲助理教授分享了我们的研究工作：“The Maginot Line: Attacking the Boundary of DNS Caching Protection”。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>黑帽大会2023（亚洲）</title>
       <link>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E4%BA%9A%E6%B4%B2/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E4%BA%9A%E6%B4%B2/</guid>
-      <description>&lt;p&gt;在黑帽大会2023（亚洲）上, 我分享了研究工作：“Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation”.&lt;/p&gt;
+      <description>&lt;p&gt;在黑帽大会2023（亚洲）上, 我分享了研究工作：“Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation”。&lt;/p&gt;
 &lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
 &lt;p&gt;
 
