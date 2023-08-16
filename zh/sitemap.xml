@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lixiang521.com/zh/publication-type/1/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/categories/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/dns/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/category/dns/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +56,202 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/category/dns/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns%E5%9B%9E%E5%A4%8D/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/dns%E5%9B%9E%E5%A4%8D/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/dns%E5%9B%9E%E5%A4%8D/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/dns%E5%AE%89%E5%85%A8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/dns%E5%AE%89%E5%85%A8/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/dns%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/dns%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication_types/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication_types/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tags/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/oakland24/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication/oakland24/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication/oakland24/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%94%BB%E5%87%BB/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/%E8%B5%84%E6%BA%90%E6%B6%88%E8%80%97%E6%94%BB%E5%87%BB/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/%E8%B5%84%E6%BA%90%E6%B6%88%E8%80%97%E6%94%BB%E5%87%BB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/%E8%B5%84%E6%BA%90%E6%B6%88%E8%80%97%E6%94%BB%E5%87%BB/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/ndss24/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/publication/ndss24/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/publication/ndss24/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/category/email/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/email/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/email/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/%E9%82%AE%E4%BB%B6/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/%E9%82%AE%E4%BB%B6/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/dns-amplication-attack/</loc>
@@ -86,34 +282,6 @@
                 href="https://lixiang521.com/zh/tag/dns-security/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/zh/publication_types/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/publication_types/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/publication/"
-                />
-  </url><url>
     <loc>https://lixiang521.com/zh/tag/scanning/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,20 +294,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/tag/scanning/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tags/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tags/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/publication/ccs23/</loc>
@@ -196,20 +350,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://lixiang521.com/zh/category/underground-economy/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>

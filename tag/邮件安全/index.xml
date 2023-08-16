@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邮件安全 | Xiang Li | 李想</title>
+    <link>https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/</link>
+      <atom:link href="https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>邮件安全</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>邮件安全</title>
+      <link>https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/</link>
+    </image>
+    
+    <item>
+      <title>BreakSPF: How Shared Infrastructures Magnify SPF Vulnerabilities Across the Internet</title>
+      <link>https://lixiang521.com/zh/publication/ndss24/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ndss24/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;本论文提出了一个名为BreakSPF的攻击框架：攻击者新发现的一种绕过SPF协议并发起电子邮件欺骗攻击的方法。&lt;/p&gt;
+&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

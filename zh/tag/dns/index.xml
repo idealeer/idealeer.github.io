@@ -5,12 +5,27 @@
     <link>https://lixiang521.com/zh/tag/dns/</link>
       <atom:link href="https://lixiang521.com/zh/tag/dns/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>DNS</title>
       <link>https://lixiang521.com/zh/tag/dns/</link>
     </image>
+    
+    <item>
+      <title>TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets</title>
+      <link>https://lixiang521.com/zh/publication/oakland24/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/oakland24/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;本论文提出了“TuDoor攻击”，通过系统地探索并利用畸形数据包中DNS响应预处理的逻辑漏洞，导致DNS缓存投毒（1秒）、拒绝服务和资源消耗攻击。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（32）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;32个CVE编号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
@@ -40,10 +55,10 @@
       <link>https://lixiang521.com/zh/publication/security23/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/security23/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;In this paper, we report &lt;strong&gt;MaginotDNS&lt;/strong&gt;, a powerful cache poisoning attack against DNS servers that simultaneously act as recursive resolvers and forwarders (termed as &lt;em&gt;CDNS&lt;/em&gt;).&lt;/p&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;p&gt;在本文中，我们报告了&lt;strong&gt;MaginotDNS&lt;/strong&gt;，这是针对同时充当递归解析器和转发器（称为&lt;strong&gt;CDNS&lt;/strong&gt;）的DNS服务器的强大缓存投毒攻击。&lt;/p&gt;
 &lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt; (3)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -55,9 +70,99 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分享&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Presented in &lt;a href=&#34;https://www.blackhat.com/us-23/briefings/schedule/index.html#maginotdns-attacking-the-boundary-of-dns-caching-protection-31901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;分享于&lt;a href=&#34;https://www.blackhat.com/us-23/briefings/schedule/index.html#maginotdns-attacking-the-boundary-of-dns-caching-protection-31901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;报道&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;20+科技媒体报道，如&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BleepingComputer: &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GovCERT Austria on 14.08.2023: &lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fagen Wasanni Technologies: &lt;a href=&#34;https://fagenwasanni.com/ai/new-cache-poisoning-attack-maginotdns-targets-cdns-resolvers/193076/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TechWar.GR: &lt;a href=&#34;https://www.techwar.gr/en/100901/oi-epitheseis-maginotdns-ekmetallevontai-adynamous-elegchous-gia-dilitiriasi-tis-kryfis-mnimis-dns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reddit: &lt;a href=&#34;https://www.reddit.com/r/cybersecurity/comments/15qmxtf/maginotdns_attacks_exploit_weak_checks_for_dns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;News YCombinator: &lt;a href=&#34;https://news.ycombinator.com/item?id=37112594&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Italy 24 Press News: &lt;a href=&#34;https://news.italy24.press/technology/777223.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SecNews.gr: &lt;a href=&#34;https://en.secnews.gr/477879/maginotdns-epitheseis-gia-dhlhtirash-dns-cache/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SecNews.gr: &lt;a href=&#34;https://zh-cn.secnews.gr/477879/maginotdns-%E4%B8%8A%E7%9A%AE-gia-dhlhtirash-dns-%E7%BC%93%E5%AD%98/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News-zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IlSoftware.it: &lt;a href=&#34;https://www.ilsoftware.it/maginotdns-allarme-dns-cache-poisoning-cosa-sta-succedendo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hispasec UnaAlDia: &lt;a href=&#34;https://unaaldia.hispasec.com/2023/08/maginotdns-un-ataque-de-envenenamiento-de-cache-dns-que-compromete-la-seguridad-de-dominios-de-nivel-superior.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Red Hot Cyber: &lt;a href=&#34;https://www.redhotcyber.com/post/un-nuovo-attacco-dns-minaccia-linternet-globale-scopriamo-lattacco-maginotdns/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Security Lab: &lt;a href=&#34;https://www.securitylab.ru/news/540879.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OpenNet: &lt;a href=&#34;https://opennet.ru/59598-dns&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cyware Labs: &lt;a href=&#34;https://cyware.com/cyber-security-news-articles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informazione.it: &lt;a href=&#34;https://www.informazione.it/a/575D21F3-AD6E-48B0-8CC8-96FD76DEF016/MaginotDNS-allarme-DNS-cache-poisoning-cosa-sta-succedendo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS2 Space: &lt;a href=&#34;https://ts2.space/en/new-cache-poisoning-attack-can-compromise-top-level-domains/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BelEn News and Lifestyle: &lt;a href=&#34;https://thebest-of.com/tag/maginotdns-attack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Broadband Reports: &lt;a href=&#34;https://www.dslreports.com/forum/r33727988-MaginotDNS-attacks-exploit-weak-checks-for-DNS-cache-poisoning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Infosec Exchange: &lt;a href=&#34;https://infosec.exchange/@BleepingComputer/110882721065014974&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PRSOL:CC: &lt;a href=&#34;https://www.prsol.cc/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Notizie today: &lt;a href=&#34;https://www.notizie.today/post/maginotdns-allarme-dns-cache-poisoning-cosa-sta-succedendo-1027364.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BreachForums: &lt;a href=&#34;https://breachforums.is/Thread-Daily-Cybersecurity-Roundup-August-14-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anti-Malware.ru: &lt;a href=&#34;https://www.anti-malware.ru/news/2023-08-14-111332/41735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;快米云: &lt;a href=&#34;https://news.zzqidc.com/wangluoanquan/16591.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
