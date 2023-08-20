@@ -62,6 +62,10 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-1103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-28455&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/47/contributions/1021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 41&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -85,6 +89,32 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-1103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-28455&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/47/contributions/1021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 41&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolf in Sheep&#39;s Clothing: Evaluating the Security Risks of the Undelegated Record on DNS Hosting Services</title>
+      <link>https://lixiang521.com/publication/imc23/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/imc23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This paper conducted a comprehensive measurement to reveal the prevalence of undelegated DNS records.&lt;/p&gt;
+&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wolf in Sheep&#39;s Clothing: Evaluating the Security Risks of the Undelegated Record on DNS Hosting Services</title>
+      <link>https://lixiang521.com/zh/publication/imc23/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/imc23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
+&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

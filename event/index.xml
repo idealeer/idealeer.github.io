@@ -5,12 +5,27 @@
     <link>https://lixiang521.com/event/</link>
       <atom:link href="https://lixiang521.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 07:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 07:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://lixiang521.com/event/</link>
     </image>
+    
+    <item>
+      <title>Invited to Attend the 21st BlueHat 2023</title>
+      <link>https://lixiang521.com/talk/invited-to-attend-the-21st-bluehat-2023/</link>
+      <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/invited-to-attend-the-21st-bluehat-2023/</guid>
+      <description>&lt;p&gt;On Augest 18, I was invited to attend the 21st BlueHat 2023.&lt;/p&gt;
+&lt;p&gt;Event Details and FAQ:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Simply Applying does not ensure a pass or ticket to the conference:&lt;/strong&gt; Click the ‘Apply Here!’ link above and complete the application form. If selected after our review, you will receive an email invitation with a unique link to register for the conference.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Microsoft employees will be assigned to Day 1 or Day 2 of the event.&lt;/strong&gt; While the agenda is still forthcoming, please indicate your preferred day in the application form. IMPORTANT: While we will do our best, your preferred selection is not guaranteed due to scheduling constraints.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applications to attend BlueHat 2023 are open to everyone:&lt;/strong&gt; Whether from Microsoft or elsewhere, everyone in the fields of security research and response are welcome to submit an application. Microsoft is committed to ensuring a diverse, inclusive, and accessible event. If you have questions or help with your application, please email &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Attendees are responsible for travel and accommodation costs and arrangements:&lt;/strong&gt; If accepted as an attendee, you will need to arrange and cover your travel and accommodation for the event in Redmond, WA, USA, from Oct 11 – 12, 2023.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Expect emails from &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/strong&gt; Please monitor your Junk, Clutter, Spam, Other email folders for messages from this address. If you do not receive a confirmation email, please contact the BlueHat planning team at &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited to MSRC&#39;s Researcher Celebration at Black Hat USA 2023</title>
@@ -452,6 +467,20 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./talk.png&#34; alt=&#34;talk&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited to Attend the 20th BlueHat 2023</title>
+      <link>https://lixiang521.com/talk/invited-to-attend-the-20th-bluehat-2023/</link>
+      <pubDate>Wed, 08 Feb 2023 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/invited-to-attend-the-20th-bluehat-2023/</guid>
+      <description>&lt;p&gt;On December 13, I was invited to attend the 20th BlueHat 2023.&lt;/p&gt;
+&lt;p&gt;Event Details and FAQ:&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applying to attend does not guarantee you a pass or ticket to the event:&lt;/strong&gt; Follow the above ‘Apply Here!’ link and complete the application form. A review process will take place and if your application is accepted, you will receive an email invitation with a unique link to register for the conference.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applications to attend BlueHat 2023 are open to all:&lt;/strong&gt; both Microsoft and non-Microsoft employees in the fields of security research and response are welcome to submit an application. Microsoft is committed to ensuring a diverse, inclusive and accessible event. If you have questions or require assistance with submitting an application, please email &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Attendees are responsible for travel and accommodation costs and arrangements:&lt;/strong&gt; If your application is accepted, you will be responsible for securing your travel and accommodation to Redmond, WA, USA, for Feb 8 – 9, 2023.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Emails will come from &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/strong&gt; Please monitor your Junk / Clutter / Spam / Other email folders for messages from this address. If you do not receive a confirmation email, please contact the BlueHat planning team at &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

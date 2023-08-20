@@ -58,6 +58,10 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-1103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-28455&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/47/contributions/1021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 41&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -73,12 +77,38 @@
     </item>
     
     <item>
+      <title>Wolf in Sheep&#39;s Clothing: Evaluating the Security Risks of the Undelegated Record on DNS Hosting Services</title>
+      <link>https://lixiang521.com/zh/publication/imc23/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/imc23/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
+&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>受邀参加第21届BlueHat 2023</title>
+      <link>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E7%AC%AC21%E5%B1%8Abluehat-2023/</link>
+      <pubDate>Wed, 11 Oct 2023 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E7%AC%AC21%E5%B1%8Abluehat-2023/</guid>
+      <description>&lt;p&gt;在8月18日，受邀参加第21届BlueHat 2023。&lt;/p&gt;
+&lt;p&gt;详情：&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Simply Applying does not ensure a pass or ticket to the conference:&lt;/strong&gt; Click the ‘Apply Here!’ link above and complete the application form. If selected after our review, you will receive an email invitation with a unique link to register for the conference.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Microsoft employees will be assigned to Day 1 or Day 2 of the event.&lt;/strong&gt; While the agenda is still forthcoming, please indicate your preferred day in the application form. IMPORTANT: While we will do our best, your preferred selection is not guaranteed due to scheduling constraints.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applications to attend BlueHat 2023 are open to everyone:&lt;/strong&gt; Whether from Microsoft or elsewhere, everyone in the fields of security research and response are welcome to submit an application. Microsoft is committed to ensuring a diverse, inclusive, and accessible event. If you have questions or help with your application, please email &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Attendees are responsible for travel and accommodation costs and arrangements:&lt;/strong&gt; If accepted as an attendee, you will need to arrange and cover your travel and accommodation for the event in Redmond, WA, USA, from Oct 11 – 12, 2023.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Expect emails from &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/strong&gt; Please monitor your Junk, Clutter, Spam, Other email folders for messages from this address. If you do not receive a confirmation email, please contact the BlueHat planning team at &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>受邀参加 MSRC&#39;s Researcher Celebration at Black Hat USA 2023</title>
       <link>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-usa-2023/</link>
       <pubDate>Thu, 10 Aug 2023 07:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-usa-2023/</guid>
       <description>&lt;p&gt;在2023年7月11日，受邀参加 MSRC&amp;rsquo;s Researcher Celebration at Black Hat USA 2022。&lt;/p&gt;
-&lt;p&gt;Event Details and FAQ:&lt;/p&gt;
+&lt;p&gt;详情：&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Thursday, August 10th, 2023, from 5PM to 10PM&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Retro by Voltaggio, Mandalay Bay, Las Vegas&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Who is the event for&lt;/strong&gt;: MSRC’s Most Valuable Researchers (MVRs) and alumni, researchers with active and recent MSRC cases, MSRC strategic partners, and members of the security research community.&lt;/p&gt;
@@ -755,6 +785,20 @@
     </item>
     
     <item>
+      <title>受邀参加第20届BlueHat 2023</title>
+      <link>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E7%AC%AC20%E5%B1%8Abluehat-2023/</link>
+      <pubDate>Wed, 08 Feb 2023 07:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E7%AC%AC20%E5%B1%8Abluehat-2023/</guid>
+      <description>&lt;p&gt;在12月13日，受邀参加第20届BlueHat 2023。&lt;/p&gt;
+&lt;p&gt;详情：&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applying to attend does not guarantee you a pass or ticket to the event:&lt;/strong&gt; Follow the above ‘Apply Here!’ link and complete the application form. A review process will take place and if your application is accepted, you will receive an email invitation with a unique link to register for the conference.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Applications to attend BlueHat 2023 are open to all:&lt;/strong&gt; both Microsoft and non-Microsoft employees in the fields of security research and response are welcome to submit an application. Microsoft is committed to ensuring a diverse, inclusive and accessible event. If you have questions or require assistance with submitting an application, please email &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Attendees are responsible for travel and accommodation costs and arrangements:&lt;/strong&gt; If your application is accepted, you will be responsible for securing your travel and accommodation to Redmond, WA, USA, for Feb 8 – 9, 2023.&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Emails will come from &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/strong&gt; Please monitor your Junk / Clutter / Spam / Other email folders for messages from this address. If you do not receive a confirmation email, please contact the BlueHat planning team at &lt;a href=&#34;mailto:bluehat23reg@microsoft.com&#34;&gt;bluehat23reg@microsoft.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ICANN DNS 研讨会 | 2022年11月</title>
       <link>https://lixiang521.com/zh/talk/icann-dns-%E7%A0%94%E8%AE%A8%E4%BC%9A-2022%E5%B9%B411%E6%9C%88/</link>
       <pubDate>Tue, 15 Nov 2022 09:00:00 +0000</pubDate>
@@ -809,11 +853,11 @@
       <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/talk/%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0-msrcs-researcher-celebration-at-black-hat-2022/</guid>
       <description>&lt;p&gt;在2022年7月25日，受邀参加 MSRC&amp;rsquo;s Researcher Celebration at Black Hat 2022。&lt;/p&gt;
-&lt;p&gt;Event details:&lt;/p&gt;
+&lt;p&gt;详情：&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;When&lt;/strong&gt;: Wednesday, August 10th, 2022, from 7PM to 11PM&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Where&lt;/strong&gt;: Illuminarium at Area 15, Las Vegas&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Who is the event for&lt;/strong&gt;: MSRC’s Most Valuable Researchers (MVRs) and alumni, MSRC strategic partners, the security research community, and Microsoft employees in security engineering, response, and research.&lt;/p&gt;
-&lt;p&gt;Frequently asked questions:&lt;/p&gt;
+&lt;p&gt;提问：&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Why am I receiving this email?&lt;/strong&gt; You are receiving this email – an invitation to the MSRC Researcher Celebration 2022 event – because you have been recognized as one of MSRC’s Most Valuable Researchers, have contributed a bounty eligible case to MSRC at some point during the past 4 years, are part of MSRC’s MAPP program, or you have been nominated to receive an invitation from a fellow researcher or Microsoft employee. If you believe you have been invited in error or do not wish to be invited to these types of events, please email &lt;a href=&#34;mailto:bluehat@microsoft.com&#34;&gt;bluehat@microsoft.com&lt;/a&gt; to have your name added to the ‘do not contact’ list.&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Will there be transport to the event?&lt;/strong&gt; Yes! When registering please let us know what hotel you will be staying at, and we will use this information to coordinate transport to and from the party. We will endeavor to have multiple options for attendees to arrive and depart throughout the night.&lt;/p&gt;
 &lt;p&gt;· &lt;strong&gt;Do I need to eat before I arrive?&lt;/strong&gt; You shouldn’t need to! There will be amazing (and substantial) food and beverages throughout the event with options for vegetarians, vegans, as well as those avoiding gluten and dairy.&lt;/p&gt;
