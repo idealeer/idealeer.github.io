@@ -17,7 +17,7 @@
       <link>https://lixiang521.com/zh/publication/oakland24/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/oakland24/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本论文提出了“TuDoor攻击”，通过系统地探索并利用畸形数据包中DNS响应预处理的逻辑漏洞，导致DNS缓存投毒（1秒）、拒绝服务和资源消耗攻击。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（33）&lt;/p&gt;
 &lt;ul&gt;
@@ -32,7 +32,7 @@
       <link>https://lixiang521.com/zh/publication/imc23/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/imc23/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
 &lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>

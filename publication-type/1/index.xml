@@ -5,12 +5,42 @@
     <link>https://lixiang521.com/publication-type/1/</link>
       <atom:link href="https://lixiang521.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://lixiang521.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;ResolverFuzz&lt;/strong&gt; to fuzz the resolver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (15)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15 CVE numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/zh/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;p&gt;在本文中，我们提出了一个全新的工具&lt;strong&gt;ResolverFuzz&lt;/strong&gt;用来模糊测试解析器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（15）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15个CVE编号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多内容敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets</title>
@@ -32,7 +62,7 @@
       <link>https://lixiang521.com/zh/publication/oakland24/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/oakland24/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本论文提出了“TuDoor攻击”，通过系统地探索并利用畸形数据包中DNS响应预处理的逻辑漏洞，导致DNS缓存投毒（1秒）、拒绝服务和资源消耗攻击。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（33）&lt;/p&gt;
 &lt;ul&gt;
@@ -58,7 +88,7 @@
       <link>https://lixiang521.com/zh/publication/ndss24/</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/ndss24/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本论文提出了一个名为BreakSPF的攻击框架：攻击者新发现的一种绕过SPF协议并发起电子邮件欺骗攻击的方法。&lt;/p&gt;
 &lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
@@ -156,7 +186,7 @@
       <link>https://lixiang521.com/zh/publication/imc23/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/imc23/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
 &lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
@@ -395,10 +425,10 @@
 &lt;p&gt;techxpub.de: &lt;a href=&#34;https://techxpub.de/dns-cache-poisoning-maginotdns-angriffe-nutzen-schwachstellen-im-system-aus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;快米云: &lt;a href=&#34;https://news.zzqidc.com/wangluoanquan/16591.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
@@ -440,13 +470,13 @@
 &lt;p&gt;60+科技媒体报道，如&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;瑞典政府CERT&lt;a href=&#34;https://www.cert.se/2023/08/cert-se-s-veckobrev-v-33&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每周安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;瑞典政府CERT&lt;a href=&#34;https://www.cert.se/2023/08/cert-se-s-veckobrev-v-33&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每周安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;伯恩茅斯大学CERT&lt;a href=&#34;https://cert.bournemouth.ac.uk/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;伯恩茅斯大学CERT&lt;a href=&#34;https://cert.bournemouth.ac.uk/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;报道和安全公告列表&lt;/strong&gt;&lt;/p&gt;
@@ -623,10 +653,10 @@
 &lt;p&gt;techxpub.de: &lt;a href=&#34;https://techxpub.de/dns-cache-poisoning-maginotdns-angriffe-nutzen-schwachstellen-im-system-aus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;快米云: &lt;a href=&#34;https://news.zzqidc.com/wangluoanquan/16591.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
@@ -836,7 +866,7 @@
       <link>https://lixiang521.com/zh/publication/dsn21/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/dsn21/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;在IPv4网络空间中，网络扫描技术具备着巨大的应用前景，可以被用来完成大规模的测量研究工作，诸如多种协议部署的测量、僵尸网络行为的追踪、潜在网络漏洞的发现。然而，IPv6引入了海量的128位地址空间，使得传统的枚举遍历扫描技术变得不太可行。即便学术界已经针对性地提出了多种有效的IPv6终端地址发现方案，但这些方案仍受到扫描效率和精度的影响，并不能被直接采用来进行IPv6网络空间中的大规模测量研究。&lt;br&gt; 本工作从全新的扫描角度出发，提出了一种新型的IPv6网络扫描技术，用于发现位于网络拓扑中重要位置的IPv6网络边界设备，同时设计并实现了全新的IPv6网络扫描器：&lt;em&gt;XMap&lt;/em&gt;，可被用来进行大规模的扫描探测工作。通过利用XMap，本工作在若干个运营商的网络环境下发现了数以千万计的IPv6网络边界设备，并对其暴露的关键网络服务进行了深入的安全分析。此外，利用XMap，本工作发现了一个普遍存在的通用型路由循环漏洞（影响数十家路由器厂商），申请到了多于109个漏洞编号，并向厂商提供了合理的披露和有效的修复方案。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号：CNVD/CNNVD/CVE&lt;/strong&gt; (109/2/22)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03270&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03271&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03271&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03291&lt;/a&gt; &lt;a href=&#34;https://www.cnvd.org.cn/flaw/show/CNVD-2021-03312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNVD-2021-03312&lt;/a&gt;&lt;/p&gt;

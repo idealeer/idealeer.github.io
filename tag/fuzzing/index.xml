@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuzzing | Xiang Li | 李想</title>
+    <link>https://lixiang521.com/tag/fuzzing/</link>
+      <atom:link href="https://lixiang521.com/tag/fuzzing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fuzzing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
+      <title>Fuzzing</title>
+      <link>https://lixiang521.com/tag/fuzzing/</link>
+    </image>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;ResolverFuzz&lt;/strong&gt; to fuzz the resolver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (15)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15 CVE numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/zh/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;p&gt;在本文中，我们提出了一个全新的工具&lt;strong&gt;ResolverFuzz&lt;/strong&gt;用来模糊测试解析器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（15）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15个CVE编号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多内容敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

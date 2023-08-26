@@ -5,12 +5,42 @@
     <link>https://lixiang521.com/tag/dns/</link>
       <atom:link href="https://lixiang521.com/tag/dns/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>DNS</title>
       <link>https://lixiang521.com/tag/dns/</link>
     </image>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this paper, we propose &lt;strong&gt;ResolverFuzz&lt;/strong&gt; to fuzz the resolver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (15)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15 CVE numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing</title>
+      <link>https://lixiang521.com/zh/publication/security24/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/security24/</guid>
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;p&gt;在本文中，我们提出了一个全新的工具&lt;strong&gt;ResolverFuzz&lt;/strong&gt;用来模糊测试解析器。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（15）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15个CVE编号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多内容敬请期待&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets</title>
@@ -32,7 +62,7 @@
       <link>https://lixiang521.com/zh/publication/oakland24/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/oakland24/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本论文提出了“TuDoor攻击”，通过系统地探索并利用畸形数据包中DNS响应预处理的逻辑漏洞，导致DNS缓存投毒（1秒）、拒绝服务和资源消耗攻击。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt;（33）&lt;/p&gt;
 &lt;ul&gt;
@@ -112,7 +142,7 @@
       <link>https://lixiang521.com/zh/publication/imc23/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/publication/imc23/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
 &lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
@@ -331,10 +361,10 @@
 &lt;p&gt;techxpub.de: &lt;a href=&#34;https://techxpub.de/dns-cache-poisoning-maginotdns-angriffe-nutzen-schwachstellen-im-system-aus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;快米云: &lt;a href=&#34;https://news.zzqidc.com/wangluoanquan/16591.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
@@ -376,13 +406,13 @@
 &lt;p&gt;60+科技媒体报道，如&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;瑞典政府CERT&lt;a href=&#34;https://www.cert.se/2023/08/cert-se-s-veckobrev-v-33&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每周安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;瑞典政府CERT&lt;a href=&#34;https://www.cert.se/2023/08/cert-se-s-veckobrev-v-33&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每周安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;伯恩茅斯大学CERT&lt;a href=&#34;https://cert.bournemouth.ac.uk/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;安全报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;伯恩茅斯大学CERT&lt;a href=&#34;https://cert.bournemouth.ac.uk/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;安全公告&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;报道和安全公告列表&lt;/strong&gt;&lt;/p&gt;
@@ -559,10 +589,10 @@
 &lt;p&gt;techxpub.de: &lt;a href=&#34;https://techxpub.de/dns-cache-poisoning-maginotdns-angriffe-nutzen-schwachstellen-im-system-aus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;360CERT安全日报（2023.08.14）: &lt;a href=&#34;https://mp.weixin.qq.com/s/mCo4xFp6XmzK8DVDb4NpHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;合天网安实验室-网络安全日报（2023年08月15日）: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/650058921&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;快米云: &lt;a href=&#34;https://news.zzqidc.com/wangluoanquan/16591.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
