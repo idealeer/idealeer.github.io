@@ -538,6 +538,52 @@
     <lastmod>2023-10-11T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lixiang521.com/talk/2nd-aegis-workshop/</loc>
+    <lastmod>2023-08-26T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/talk/2nd-aegis-workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/talk/2nd-aegis-workshop/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/aegis-2/</loc>
+    <lastmod>2023-08-26T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lixiang521.com/tag/presentation/</loc>
+    <lastmod>2023-08-26T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/category/presentation/</loc>
+    <lastmod>2023-08-26T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lixiang521.com/zh/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lixiang521.com/category/presentation/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/talk/invited-to-msrcs-researcher-celebration-at-black-hat-usa-2023/</loc>
     <lastmod>2023-08-10T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -572,34 +618,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lixiang521.com/talk/32nd-usenix-security-symposium-2023-usenix-security-2023/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/tag/presentation/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/category/presentation/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://lixiang521.com/zh/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lixiang521.com/category/presentation/"
                 />
   </url><url>
     <loc>https://lixiang521.com/talk/black-hat-usa-2023/</loc>

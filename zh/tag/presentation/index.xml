@@ -5,12 +5,21 @@
     <link>https://lixiang521.com/zh/tag/presentation/</link>
       <atom:link href="https://lixiang521.com/zh/tag/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 26 Aug 2023 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://lixiang521.com/zh/tag/presentation/</link>
     </image>
+    
+    <item>
+      <title>2nd AEGIS Workshop</title>
+      <link>https://lixiang521.com/zh/talk/2nd-aegis-workshop/</link>
+      <pubDate>Sat, 26 Aug 2023 08:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/2nd-aegis-workshop/</guid>
+      <description>&lt;p&gt;在第二届&lt;a href=&#34;https://aegis-readers.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEGIS Workshop&lt;/a&gt;中（线上），我分享了最新的研究工作&lt;a href=&#34;https://phoenixdomain.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不死域名&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2023年第32届USENIX安全探讨会｜USENIX Security 2023</title>
