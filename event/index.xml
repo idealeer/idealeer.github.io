@@ -5,12 +5,106 @@
     <link>https://lixiang521.com/event/</link>
       <atom:link href="https://lixiang521.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 07:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://lixiang521.com/event/</link>
     </image>
+    
+    <item>
+      <title>GeekCon 2023</title>
+      <link>https://lixiang521.com/talk/geekcon-2023/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/geekcon-2023/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://www.geekcon.top/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeekCon 2023&lt;/a&gt;, I presented our 0-day vulnerability to conduct pulsing DoS attack with Dashuai. We got the 2nd prize of GeekCon 2023 DAF (Defense &amp;amp; Attack Force) Contest. Our colleagues got two Winner prizes and the 1st prize of AVSS contest.&lt;/p&gt;
+&lt;h3 id=&#34;moments&#34;&gt;Moments&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./competition.jpg&#34; alt=&#34;competition&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./rank.jpg&#34; alt=&#34;rank&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./prizes.jpg&#34; alt=&#34;prizes&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./whole.jpg&#34; alt=&#34;whole&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited to Attend the 21st BlueHat 2023</title>
