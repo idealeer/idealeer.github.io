@@ -57,6 +57,7 @@
       <guid>https://lixiang521.com/publication/oakland24/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This paper proposes the TuDoor Attack, by systematically exploring and exploiting logic vulnerabilities in DNS response pre-processing with malformed packets, leading to DNS cache poisoning (1s), denial-of-service, and resource consuming attacks.&lt;/p&gt;
+&lt;p&gt;TuDoor: &lt;a href=&#34;https://tudoor.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tudoor.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (33)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;33 CVE numbers&lt;/li&gt;
@@ -84,6 +85,7 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
 &lt;p&gt;More details coming soon.&lt;/p&gt;
+&lt;p&gt;TsuKing: &lt;a href=&#34;https://tsuking.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tsuking.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -116,6 +118,7 @@
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we present the &lt;strong&gt;TsuKing&lt;/strong&gt; attack.&lt;/p&gt;
 &lt;p&gt;More details coming soon.&lt;/p&gt;
+&lt;p&gt;TsuKing: &lt;a href=&#34;https://tsuking.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tsuking.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CVE&lt;/strong&gt; (3)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
