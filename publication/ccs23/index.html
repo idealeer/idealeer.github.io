@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: October 28, 2023 --><html lang="en-us" >
+<!-- Last Published: November 16, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -962,8 +962,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/ccs23/ccs23-xu-tsuking.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -972,6 +978,14 @@
   Cite
 </a>
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -998,9 +1012,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 92px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 369px;">
   <div style="position: relative">
-    <img src="/publication/ccs23/featured_hu0bfac2e3f6aebfacc2bf39a5f98b7658_36158_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="92" alt="" class="featured-image">
+    <img src="/publication/ccs23/featured_huf6568d6e5bb01e434be32ebb0c952ef9_301678_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="369" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1011,7 +1025,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In this paper, we present the <strong>TsuKing</strong> attack.</p>
+    <p class="pub-abstract">In this paper, we present a new DNS amplification attack, named TsuKing. Instead of exploiting individual DNS resolvers independently to achieve an amplification effect, TsuKing deftly coordinates numerous vulnerable DNS resolvers and crafted queries together to form potent DoS amplifiers. We demonstrate that with TsuKing, an initial small amplification factor can increase exponentially through the internal layers of coordinated amplifiers, resulting in an extremely powerful amplification attack. TsuKing has three variants, including DNSRetry, DNSChain, and DNSLoop, all of which exploit a suite of inconsistent DNS implementations to achieve enormous amplification effect. With comprehensive measurements, we found that about 14.5% of 1.3M open DNS resolvers are potentially vulnerable to TsuKing. Real-world controlled evaluations indicated that attackers can achieve a packet amplification factor of at least 3,700× (DNSChain). We have reported vulnerabilities to affected vendors and provided them with mitigation recommendations. We have received positive responses from 6 vendors, including Unbound, MikroTik, and AliDNS, and 3 CVEs were assigned. Some of them are implementing our recommendations.</p>
     
 
     
