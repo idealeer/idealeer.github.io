@@ -5,12 +5,21 @@
     <link>https://lixiang521.com/event/</link>
       <atom:link href="https://lixiang521.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://lixiang521.com/event/</link>
     </image>
+    
+    <item>
+      <title>Black Hat Europe 2023</title>
+      <link>https://lixiang521.com/talk/black-hat-europe-2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/black-hat-europe-2023/</guid>
+      <description>&lt;p&gt;In Black Hat Europe 2023, Professor Haixin Duan presented our work: &amp;ldquo;TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GeekCon 2023</title>
@@ -103,6 +112,15 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./whole.jpg&#34; alt=&#34;whole&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kanxue SDC 2023</title>
+      <link>https://lixiang521.com/talk/kanxue-sdc-2023/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/kanxue-sdc-2023/</guid>
+      <description>&lt;p&gt;In Kanxue SDC 2023, Professor Haixin Duan presented our work: &amp;ldquo;The Maginot Line: Attacking the Boundary of DNS Caching Protection&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     

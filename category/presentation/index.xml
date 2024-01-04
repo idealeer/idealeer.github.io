@@ -5,12 +5,48 @@
     <link>https://lixiang521.com/category/presentation/</link>
       <atom:link href="https://lixiang521.com/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://lixiang521.com/category/presentation/</link>
     </image>
+    
+    <item>
+      <title>Black Hat Europe 2023</title>
+      <link>https://lixiang521.com/talk/black-hat-europe-2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/black-hat-europe-2023/</guid>
+      <description>&lt;p&gt;In Black Hat Europe 2023, Professor Haixin Duan presented our work: &amp;ldquo;TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>黑帽大会2023（欧洲）</title>
+      <link>https://lixiang521.com/zh/event/bhe-2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/bhe-2023/</guid>
+      <description>&lt;p&gt;在黑帽大会2023（欧洲）上, 段海新教授分享了我们的研究工作：“TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers”。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kanxue SDC 2023</title>
+      <link>https://lixiang521.com/talk/kanxue-sdc-2023/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/talk/kanxue-sdc-2023/</guid>
+      <description>&lt;p&gt;In Kanxue SDC 2023, Professor Haixin Duan presented our work: &amp;ldquo;The Maginot Line: Attacking the Boundary of DNS Caching Protection&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>看雪开发者峰会 2023</title>
+      <link>https://lixiang521.com/zh/event/kanxue-2023/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/event/kanxue-2023/</guid>
+      <description>&lt;p&gt;在看雪开发者峰会 2023，段海新教授分享了我们的工作：MaginotDNS 攻击——跨越域名解析器的缓存防御“护城河”。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SHUZIHUANYU Dajia Talk 2023</title>

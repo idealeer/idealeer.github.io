@@ -5,12 +5,30 @@
     <link>https://lixiang521.com/zh/category/presentation/</link>
       <atom:link href="https://lixiang521.com/zh/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 13 Sep 2023 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
       <link>https://lixiang521.com/zh/category/presentation/</link>
     </image>
+    
+    <item>
+      <title>黑帽大会2023（欧洲）</title>
+      <link>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E6%AC%A7%E6%B4%B2/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E6%AC%A7%E6%B4%B2/</guid>
+      <description>&lt;p&gt;在黑帽大会2023（欧洲）上, 段海新教授分享了我们的研究工作：“TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers”。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>看雪开发者峰会 2023</title>
+      <link>https://lixiang521.com/zh/talk/%E7%9C%8B%E9%9B%AA%E5%BC%80%E5%8F%91%E8%80%85%E5%B3%B0%E4%BC%9A-2023/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E7%9C%8B%E9%9B%AA%E5%BC%80%E5%8F%91%E8%80%85%E5%B3%B0%E4%BC%9A-2023/</guid>
+      <description>&lt;p&gt;在看雪开发者峰会 2023，段海新教授分享了我们的工作：MaginotDNS 攻击——跨越域名解析器的缓存防御“护城河”。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>数字寰宇大家讲堂 2023</title>

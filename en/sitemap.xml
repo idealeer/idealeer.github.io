@@ -474,6 +474,70 @@
                 href="https://lixiang521.com/tag/%E9%82%AE%E4%BB%B6%E5%AE%89%E5%85%A8/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/event/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lixiang521.com/talk/black-hat-europe-2023/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2023%E6%AC%A7%E6%B4%B2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/talk/black-hat-europe-2023/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/tag/presentation/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/category/presentation/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/category/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/bhe-2023/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tag/dns-amplication-attack/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -566,24 +630,6 @@
                 href="https://lixiang521.com/category/underground-economy/"
                 />
   </url><url>
-    <loc>https://lixiang521.com/event/</loc>
-    <lastmod>2023-10-24T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/event/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2023-10-24T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lixiang521.com/tag/competition/</loc>
     <lastmod>2023-10-24T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -648,6 +694,24 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lixiang521.com/talk/kanxue-sdc-2023/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/talk/%E7%9C%8B%E9%9B%AA%E5%BC%80%E5%8F%91%E8%80%85%E5%B3%B0%E4%BC%9A-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/talk/kanxue-sdc-2023/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/event/kanxue-2023/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lixiang521.com/tag/conference/</loc>
     <lastmod>2023-10-11T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -693,34 +757,6 @@
     <loc>https://lixiang521.com/zh/event/bluehat-2023-1/</loc>
     <lastmod>2023-10-11T07:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lixiang521.com/tag/presentation/</loc>
-    <lastmod>2023-09-13T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/category/presentation/</loc>
-    <lastmod>2023-09-13T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/category/presentation/"
-                />
   </url><url>
     <loc>https://lixiang521.com/talk/shuzihuanyu-dajia-talk-2023/</loc>
     <lastmod>2023-09-13T18:00:00+00:00</lastmod>
