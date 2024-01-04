@@ -196,7 +196,49 @@
                 href="https://lixiang521.com/tag/dns-cache-poisoning/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/tag/dns-query/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dns-query/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dns-query/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/tag/dns-response/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dns-response/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dns-response/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/publication/oakland24-2/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication/oakland24-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication/oakland24-2/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/oakland24-2/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -245,6 +287,16 @@
     <loc>https://lixiang521.com/tag/dos/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dos/"
+                />
   </url><url>
     <loc>https://lixiang521.com/tag/resource-consuming/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>

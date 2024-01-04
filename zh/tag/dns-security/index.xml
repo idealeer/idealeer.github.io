@@ -76,6 +76,17 @@
     </item>
     
     <item>
+      <title>DNSBomb</title>
+      <link>https://lixiang521.com/zh/publication/oakland24-2/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/oakland24-2/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;DNSBomb.&lt;/p&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers</title>
       <link>https://lixiang521.com/zh/publication/ccs23/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
