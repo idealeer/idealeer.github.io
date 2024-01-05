@@ -195,6 +195,15 @@
 &lt;p&gt;&lt;a href=&#34;https://www.ikuai8.com/ENindex.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ikuai8&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-31054&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2023-31054&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://indico.dns-oarc.net/event/48/contributions/1039/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 42&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Referenced by &lt;a href=&#34;https://datatracker.ietf.org/doc/rfc9520/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 9520: Negative Caching of DNS Resolution Failures&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
