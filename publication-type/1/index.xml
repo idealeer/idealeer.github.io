@@ -637,7 +637,7 @@
 &lt;p&gt;&lt;strong&gt;News &amp;amp; CERT&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;60+ news coverage by media such as &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;60+ news coverage by media such as &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt; and &lt;a href=&#34;https://blog.apnic.net/2023/09/26/maginotdns-attacking-the-boundary-of-dns-caching-protection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APNIC&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;An Austria government &lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CERT daily report&lt;/a&gt;&lt;/p&gt;
@@ -662,6 +662,9 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Anti-Malware.ru: &lt;a href=&#34;https://www.anti-malware.ru/news/2023-08-14-111332/41735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;APNIC: &lt;a href=&#34;https://blog.apnic.net/2023/09/26/maginotdns-attacking-the-boundary-of-dns-caching-protection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;BelEn News and Lifestyle: &lt;a href=&#34;https://thebest-of.com/tag/maginotdns-attack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
@@ -876,7 +879,7 @@
 &lt;p&gt;&lt;strong&gt;报道和安全公告&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;60+科技媒体报道，如&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;60+科技媒体报道，如&lt;a href=&#34;https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BleepingComputer&lt;/a&gt; and &lt;a href=&#34;https://blog.apnic.net/2023/09/26/maginotdns-attacking-the-boundary-of-dns-caching-protection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APNIC&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;奥地利政府CERT&lt;a href=&#34;https://www.govcert.gv.at/cert-tagesmeldungen.html?detail=entry-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;每日安全公告&lt;/a&gt;&lt;/p&gt;
@@ -901,6 +904,9 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Anti-Malware.ru: &lt;a href=&#34;https://www.anti-malware.ru/news/2023-08-14-111332/41735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;APNIC: &lt;a href=&#34;https://blog.apnic.net/2023/09/26/maginotdns-attacking-the-boundary-of-dns-caching-protection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;BelEn News and Lifestyle: &lt;a href=&#34;https://thebest-of.com/tag/maginotdns-attack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
