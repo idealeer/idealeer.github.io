@@ -142,6 +142,20 @@
                 href="https://lixiang521.com/zh/publication/security24/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/publication/security24-1/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication/security24-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication/security24-1/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/zh/tags/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -392,6 +406,20 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/tag/http/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/ndss24-3/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication/ndss24-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication/ndss24-3/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/publication/ndss24-2/</loc>
