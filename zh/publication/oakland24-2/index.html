@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2024年2月29日 --><html lang="zh-Hans" >
+<!-- Last Published: 2024年5月13日 --><html lang="zh-Hans" >
 
 
 <head>
@@ -272,7 +272,7 @@
 
   
 
-<meta name="description" content="DNSBomb." />
+<meta name="description" content="DNSBomb is a new practical and powerful pulsing DoS attack exploiting DNS queries and responses." />
 
 
 
@@ -315,8 +315,8 @@
 <meta property="twitter:image" content="https://lixiang521.com/zh/publication/oakland24-2/featured.png" />
 <meta property="og:site_name" content="李想 | Xiang Li" />
 <meta property="og:url" content="https://lixiang521.com/zh/publication/oakland24-2/" />
-<meta property="og:title" content="DNSBomb | 李想 | Xiang Li" />
-<meta property="og:description" content="DNSBomb." /><meta property="og:image" content="https://lixiang521.com/zh/publication/oakland24-2/featured.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:title" content="DNSBomb: A New Practical-and-Powerful Pulsing DoS Attack Exploiting DNS Queries-and-Responses | 李想 | Xiang Li" />
+<meta property="og:description" content="DNSBomb is a new practical and powerful pulsing DoS attack exploiting DNS queries and responses." /><meta property="og:image" content="https://lixiang521.com/zh/publication/oakland24-2/featured.png" /><meta property="og:locale" content="zh-Hans" />
 
   
     <meta
@@ -351,7 +351,7 @@
     "@type": "WebPage",
     "@id": "https://lixiang521.com/zh/publication/oakland24-2/"
   },
-  "headline": "DNSBomb",
+  "headline": "DNSBomb: A New Practical-and-Powerful Pulsing DoS Attack Exploiting DNS Queries-and-Responses",
   
   "image": [
     "https://lixiang521.com/zh/publication/oakland24-2/featured.png"
@@ -373,7 +373,7 @@
       "url": "https://lixiang521.com/media/icon_hu4743801dc941995635bcb4792fd637fb_3266101_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "DNSBomb."
+  "description": "DNSBomb is a new practical and powerful pulsing DoS attack exploiting DNS queries and responses."
 }
 </script>
 
@@ -395,7 +395,7 @@
 
 
   
-  <title>DNSBomb | 李想 | Xiang Li</title>
+  <title>DNSBomb: A New Practical-and-Powerful Pulsing DoS Attack Exploiting DNS Queries-and-Responses | 李想 | Xiang Li</title>
 
   
   
@@ -888,7 +888,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>DNSBomb</h1>
+  <h1>DNSBomb: A New Practical-and-Powerful Pulsing DoS Attack Exploiting DNS Queries-and-Responses</h1>
 
   
 
@@ -1002,9 +1002,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 156px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 158px;">
   <div style="position: relative">
-    <img src="/zh/publication/oakland24-2/featured_hued7c4df358796424e98ccfbb4b37e24d_33925_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="156" alt="" class="featured-image">
+    <img src="/zh/publication/oakland24-2/featured_huc63b5f454983d9d5f502678d0dd39b2c_47239_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="158" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1015,7 +1015,7 @@
 
     
     <h3>摘要</h3>
-    <p class="pub-abstract">DNSBomb.</p>
+    <p class="pub-abstract">DNS employs a variety of mechanisms to guarantee availability, protect security, and enhance reliability. In this paper, however, we reveal that these inherent beneficial mechanisms, including timeout, query aggregation, and response fast-returning, can be transformed into malicious attack vectors. We propose a new practical and powerful pulsing DoS attack, dubbed the DNSBomb attack. DNSBomb exploits multiple widely-implemented DNS mechanisms to accumulate DNS queries that are sent at a low rate, amplify queries into large-sized responses, and concentrate all DNS responses into a short, high-volume periodic pulsing burst to simultaneously overwhelm target systems. Through an extensive evaluation on 10 mainstream DNS software, 46 public DNS services, and around 1.8M open DNS resolvers, we demonstrate all DNS resolvers could be exploited to conduct more practical-and-powerful DNSBomb attacks than previous pulsing DoS atttacks. Small-scale experiments show the peak pulse magnitude can approach 8.7Gb/s and the bandwidth amplification factor could exceed 20,000x. Our controlled attacks cause complete packet loss or service degradation on both stateless and stateful connections (TCP, UDP, and QUIC). In addition, we present effective mitigation solutions with detailed evaluations. We have responsibly reported our findings to all affected vendors, and received acknowledgement from 24 of them, which are patching their software using our solutions, such as BIND, Unbound, PowerDNS, and Knot. 10 CVE-IDs are assigned.</p>
     
 
     
@@ -1053,9 +1053,40 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><h3 id="overview">Overview</h3>
-<p>DNSBomb.</p>
-<p>Coming soon&hellip;</p>
+    <div class="article-style"><h3 id="概述">概述</h3>
+<p>DNSBomb is a new practical and powerful pulsing DoS attack exploiting DNS queries and responses.</p>
+<p>DNS炸弹: <a href="https://dnsbomb.net/" target="_blank" rel="noopener">https://dnsbomb.net/</a></p>
+<p><strong>漏洞编号</strong> (11)</p>
+<ul>
+<li>
+<p>Industry-wide: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-33655" target="_blank" rel="noopener">CVE-2024-33655</a></p>
+</li>
+<li>
+<p><a href="https://www.knot-resolver.cz/" target="_blank" rel="noopener">Knot</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49206" target="_blank" rel="noopener">CVE-2023-49206</a></p>
+</li>
+<li>
+<p><a href="https://simpledns.plus/" target="_blank" rel="noopener">Simple DNS Plus</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49205" target="_blank" rel="noopener">CVE-2023-49205</a></p>
+</li>
+<li>
+<p><a href="https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-120" target="_blank" rel="noopener">Technitium</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28456" target="_blank" rel="noopener">CVE-2023-28456</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49203" target="_blank" rel="noopener">CVE-2023-49203</a></p>
+</li>
+<li>
+<p><a href="https://maradns.samiam.org/" target="_blank" rel="noopener">MaraDNS</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49204" target="_blank" rel="noopener">CVE-2023-49204</a></p>
+</li>
+<li>
+<p><a href="https://thekelleys.org.uk/dnsmasq/doc.html" target="_blank" rel="noopener">Dnsmasq</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28450" target="_blank" rel="noopener">CVE-2023-28450</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49207" target="_blank" rel="noopener">CVE-2023-49207</a></p>
+</li>
+<li>
+<p><a href="https://coredns.io/" target="_blank" rel="noopener">CoreDNS</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28454" target="_blank" rel="noopener">CVE-2023-28454</a> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49202" target="_blank" rel="noopener">CVE-2023-49202</a></p>
+</li>
+<li>
+<p><a href="https://github.com/semihalev/sdns" target="_blank" rel="noopener">SDNS</a>: <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-49201" target="_blank" rel="noopener">CVE-2023-49201</a></p>
+</li>
+</ul>
+<p><strong>分享</strong></p>
+<ul>
+<li>分享于<a href="https://www.geekcon.top/2023/en/" target="_blank" rel="noopener">GeekCon 2023</a>（极棒国际安全极客大赛亚军）</li>
+</ul>
 </div>
 
     
@@ -1095,7 +1126,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;text=DNSBomb" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;text=DNSBomb%3A&#43;A&#43;New&#43;Practical-and-Powerful&#43;Pulsing&#43;DoS&#43;Attack&#43;Exploiting&#43;DNS&#43;Queries-and-Responses" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1112,7 +1143,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;t=DNSBomb" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;t=DNSBomb%3A&#43;A&#43;New&#43;Practical-and-Powerful&#43;Pulsing&#43;DoS&#43;Attack&#43;Exploiting&#43;DNS&#43;Queries-and-Responses" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1131,7 +1162,7 @@
         
       
       <li>
-        <a href="mailto:?subject=DNSBomb&amp;body=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=DNSBomb%3A%20A%20New%20Practical-and-Powerful%20Pulsing%20DoS%20Attack%20Exploiting%20DNS%20Queries-and-Responses&amp;body=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1148,7 +1179,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;title=DNSBomb" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;title=DNSBomb%3A&#43;A&#43;New&#43;Practical-and-Powerful&#43;Pulsing&#43;DoS&#43;Attack&#43;Exploiting&#43;DNS&#43;Queries-and-Responses" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1165,7 +1196,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=DNSBomb%20https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=DNSBomb%3A&#43;A&#43;New&#43;Practical-and-Powerful&#43;Pulsing&#43;DoS&#43;Attack&#43;Exploiting&#43;DNS&#43;Queries-and-Responses%20https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1182,7 +1213,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;title=DNSBomb" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Flixiang521.com%2Fzh%2Fpublication%2Foakland24-2%2F&amp;title=DNSBomb%3A&#43;A&#43;New&#43;Practical-and-Powerful&#43;Pulsing&#43;DoS&#43;Attack&#43;Exploiting&#43;DNS&#43;Queries-and-Responses" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
