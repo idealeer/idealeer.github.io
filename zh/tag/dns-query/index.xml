@@ -19,6 +19,8 @@
       <guid>https://lixiang521.com/zh/publication/oakland24-2/</guid>
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;DNSBomb is a new practical and powerful pulsing DoS attack exploiting DNS queries and responses.&lt;/p&gt;
+&lt;p&gt;We concluded that &lt;strong&gt;ANY SYSTEM or MECHANISM&lt;/strong&gt;, which can aggregate &amp;ldquo;things&amp;rdquo;, could be exploited to construct the pulsing DoS traffic, such as DNS and CDN.&lt;/p&gt;
+&lt;p&gt;Please join us to find more if you can! It is very interesting.&lt;/p&gt;
 &lt;p&gt;DNS炸弹: &lt;a href=&#34;https://dnsbomb.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dnsbomb.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt; (11)&lt;/p&gt;
 &lt;ul&gt;
