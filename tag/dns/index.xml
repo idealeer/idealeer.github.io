@@ -626,6 +626,12 @@
 &lt;li&gt;
 &lt;p&gt;Referenced by &lt;a href=&#34;https://datatracker.ietf.org/doc/rfc9520/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 9520: Negative Caching of DNS Resolution Failures&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://geekcon.top/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeekCon 2024 International&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented in &lt;a href=&#34;https://www.blackhat.com/us-24/briefings/schedule/index.html#tudoor-attack-systematically-exploring-and-exploiting-logic-vulnerabilities-in-dns-response-pre-processing-with-malformed-packets-38986&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2024&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -743,10 +749,16 @@
 &lt;p&gt;&lt;strong&gt;分享&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;分享于&lt;a href=&#34;https://indico.dns-oarc.net/event/48/contributions/1039/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 42&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;展示于&lt;a href=&#34;https://indico.dns-oarc.net/event/48/contributions/1039/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OARC 42&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;引用于&lt;a href=&#34;https://datatracker.ietf.org/doc/rfc9520/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 9520: Negative Caching of DNS Resolution Failures&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;展示于&lt;a href=&#34;https://geekcon.top/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeekCon 2024 International&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;展示于&lt;a href=&#34;https://www.blackhat.com/us-24/briefings/schedule/index.html#tudoor-attack-systematically-exploring-and-exploiting-logic-vulnerabilities-in-dns-response-pre-processing-with-malformed-packets-38986&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black Hat USA 2024&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
