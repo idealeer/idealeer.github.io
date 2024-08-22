@@ -153,7 +153,10 @@
       <guid>https://lixiang521.com/publication/security24-1/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we rethink the security threats of stale DNS glue records.&lt;/p&gt;
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;http://xcon.xfocus.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XCon 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -164,7 +167,10 @@
       <guid>https://lixiang521.com/zh/publication/security24-1/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;在本文中，我们深入分析了DNS glue records的安全性。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;展示&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分享于&lt;a href=&#34;http://xcon.xfocus.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XCon 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -864,7 +870,6 @@
       <guid>https://lixiang521.com/publication/imc23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This paper conducted a comprehensive measurement to reveal the prevalence of undelegated DNS records.&lt;/p&gt;
-&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2024年8月9日 --><html lang="zh-Hans" >
+<!-- Last Published: 2024年8月22日 --><html lang="zh-Hans" >
 
 
 <head>
@@ -962,8 +962,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/security24-1/usenix24-zhang-rethinking.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -1006,9 +1012,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 92px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 267px;">
   <div style="position: relative">
-    <img src="/zh/publication/security24-1/featured_huff636707cdb8a41aabebbbb35822f1a3_25425_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="92" alt="" class="featured-image">
+    <img src="/zh/publication/security24-1/featured_hu678fd8e6a5e5ea9b12e2eac87e3259bf_90622_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="267" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1019,7 +1025,7 @@
 
     
     <h3>摘要</h3>
-    <p class="pub-abstract">Rethinking the Security Threats of Stale DNS Glue Records.</p>
+    <p class="pub-abstract">The Domain Name System (DNS) fundamentally relies on glue records to provide authoritative nameserver IP addresses, enabling essential in-domain delegation. While previous studies have identified potential security risks associated with glue records, the exploitation of these records, especially in the context of out-domain delegation, remains unclear due to their inherently low trust level and the diverse ways in which resolvers handle them. This paper undertakes the first systematic exploration of the potential threats posed by DNS glue records, uncovering significant real-world security risks. We empirically identify that 23.18% of glue records across 1,096 TLDs are outdated yet still served in practice. More concerningly, through reverse engineering 9 mainstream DNS implementations (e.g., BIND 9 and Microsoft DNS), we reveal manipulable behaviors associated with glue records. The convergence of these systemic issues allows us to propose the novel threat model that could enable large-scale domain hijacking and denial-of-service attacks. Furthermore, our analysis determines over 193,558 exploitable records exist, placing more than 6 million domains at risk. Additional measurement studies on global open resolvers demonstrate that 90% of them use unvalidated and outdated glue records, including OpenDNS and AliDNS. Our responsible disclosure has already prompted mitigation efforts by affected stakeholders. Microsoft DNS, PowerDNS, OpenDNS, and Alibaba Cloud DNS have acknowledged our reported vulnerability. In summary, this work highlights that glue records constitute a forgotten foundation of DNS architecture requiring renewed security prioritization.</p>
     
 
     
@@ -1047,7 +1053,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">出版物</div>
-          <div class="col-12 col-md-9">In <a href="https://www.usenix.org/conference/usenixsecurity24/" target="_blank" rel="noopener"><em>Proceedings of the 33rd USENIX Security Symposium</em></a>. Philadelphia, Pennsylvania, August 14–16, 2024. (Acceptance rate: ??%, <a href="https://sec24summer.usenix.hotcrp.com/" target="_blank" rel="noopener">Acceptance rate in summer</a>: ??%, <a href="https://sec24fall.usenix.hotcrp.com/" target="_blank" rel="noopener"><em>Acceptance rate in fall</em></a>: ??%, <a href="https://sec24winter.usenix.hotcrp.com/" target="_blank" rel="noopener">Acceptance rate in winter</a>: ??%)</div>
+          <div class="col-12 col-md-9">In <a href="https://www.usenix.org/conference/usenixsecurity24/" target="_blank" rel="noopener"><em>Proceedings of the 33rd USENIX Security Symposium</em></a>. Philadelphia, Pennsylvania, August 14–16, 2024. (Acceptance rate: 417/2,276=18.3%, <a href="https://sec24summer.usenix.hotcrp.com/" target="_blank" rel="noopener">Acceptance rate in summer</a>: ??%, <a href="https://sec24fall.usenix.hotcrp.com/" target="_blank" rel="noopener"><em>Acceptance rate in fall</em></a>: ??%, <a href="https://sec24winter.usenix.hotcrp.com/" target="_blank" rel="noopener">Acceptance rate in winter</a>: ??%).<br>* Presented in <a href="http://xcon.xfocus.net/" target="_blank" rel="noopener">XCon 2024</a></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1059,7 +1065,10 @@
 
     <div class="article-style"><h3 id="overview">Overview</h3>
 <p>在本文中，我们深入分析了DNS glue records的安全性。</p>
-<p>敬请期待&hellip;</p>
+<p><strong>展示</strong></p>
+<ul>
+<li>分享于<a href="http://xcon.xfocus.net/" target="_blank" rel="noopener">XCon 2024</a></li>
+</ul>
 </div>
 
     

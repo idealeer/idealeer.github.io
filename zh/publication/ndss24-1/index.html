@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: 2024年8月9日 --><html lang="zh-Hans" >
+<!-- Last Published: 2024年8月22日 --><html lang="zh-Hans" >
 
 
 <head>
@@ -272,7 +272,7 @@
 
   
 
-<meta name="description" content="This paper analyzes the ecosystem of protective DNS and its security issues." />
+<meta name="description" content="本文分析了Protective DNS的生态系统及其安全问题。" />
 
 
 
@@ -316,7 +316,7 @@
 <meta property="og:site_name" content="李想 | Xiang Li" />
 <meta property="og:url" content="https://lixiang521.com/zh/publication/ndss24-1/" />
 <meta property="og:title" content="Understanding the Implementation and Security Implications of Protective DNS Services | 李想 | Xiang Li" />
-<meta property="og:description" content="This paper analyzes the ecosystem of protective DNS and its security issues." /><meta property="og:image" content="https://lixiang521.com/zh/publication/ndss24-1/featured.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="本文分析了Protective DNS的生态系统及其安全问题。" /><meta property="og:image" content="https://lixiang521.com/zh/publication/ndss24-1/featured.png" /><meta property="og:locale" content="zh-Hans" />
 
   
     <meta
@@ -373,7 +373,7 @@
       "url": "https://lixiang521.com/media/icon_hu81f197a8303208d7b07ecd8df4e38963_7750415_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "This paper analyzes the ecosystem of protective DNS and its security issues."
+  "description": "本文分析了Protective DNS的生态系统及其安全问题。"
 }
 </script>
 
@@ -961,8 +961,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/ndss24-1/ndss24-liu-understanding.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -971,6 +977,14 @@
   引用
 </a>
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/idealeer/xmap" target="_blank" rel="noopener">
+  代码
+</a>
 
 
 
@@ -997,9 +1011,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 95px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 219px;">
   <div style="position: relative">
-    <img src="/zh/publication/ndss24-1/featured_hu8d5a9b2f846e2005393b9dcf9ae55e0c_45087_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="95" alt="" class="featured-image">
+    <img src="/zh/publication/ndss24-1/featured_hu29cdabe5322ee298299e26bfba7d4017_106856_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="219" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1010,7 +1024,7 @@
 
     
     <h3>摘要</h3>
-    <p class="pub-abstract">本文分析了Protective DNS的生态系统及其安全问题。</p>
+    <p class="pub-abstract">Domain names are often registered and abused for harmful and illegal Internet activities. To mitigate such threats, as an emerging security service, Protective DNS (PDNS) blocks access to harmful content by proactively offering rewritten DNS responses, which resolve malicious domains to controlled hosts. While it has become an effective tool against cybercrime, given their implementation divergence, little has been done from the security community in understanding the deployment, operational status and security policies of PDNS services. In this paper, we present a large-scale measurement study of the deployment and security implications of open PDNS services. We first perform empirical analysis over 28 popular PDNS providers and summarize major formats of DNS rewriting policies. Then, powered by the derived rules, we design a methodology that identifies intentional DNS rewriting enforced by open PDNS servers in the wild. Our findings are multi-faceted. On the plus side, the deployment of PDNS is now starting to scale. we identify 17,601 DNS servers (9.1% of all probed) offering such service. For DNS clients, switching from regular DNS to PDNS induces negligible query latency, despite additional steps (e.g., checking against threat intelligence and rewriting DNS response) being required from the server side. However, we also find flaws and vulnerabilities within PDNS implementation, including evasion of blocking policies and denial of service. Through responsible vulnerability disclosure, we have received 12 audit assessment results of high-risk vulnerabilities. Our study calls for proper guidance and best practices for secure PDNS operation.</p>
     
 
     
@@ -1050,7 +1064,6 @@
 
     <div class="article-style"><h3 id="概述">概述</h3>
 <p>本文分析了Protective DNS的生态系统及其安全问题。</p>
-<p>敬请期待&hellip;</p>
 </div>
 
     

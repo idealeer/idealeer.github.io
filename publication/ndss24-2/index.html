@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: August 9, 2024 --><html lang="en-us" >
+<!-- Last Published: August 22, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -962,8 +962,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/ndss24-2/ndss24-zheng-reqsminer.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -992,9 +998,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 138px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 233px;">
   <div style="position: relative">
-    <img src="/publication/ndss24-2/featured_hu35921d4298487afb8b91f14b581b15b6_64209_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="138" alt="" class="featured-image">
+    <img src="/publication/ndss24-2/featured_hub95227991e452c1ab35940b675dbc3b9_115695_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="233" alt="" class="featured-image">
     
   </div>
 </div>
@@ -1005,7 +1011,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This paper proposes a new automated fuzzing tool &ldquo;ReqsMiner&rdquo; to discover CDN forwarding request inconsistencies.</p>
+    <p class="pub-abstract">Content Delivery Networks (CDNs) are ubiquitous middleboxes designed to enhance the performance of hosted websites and shield them from various attacks. Numerous notable studies show that CDNs modify a client&rsquo;s request when forwarding it to the original server. Multiple inconsistencies in this forwarding operation have been found to potentially result in security vulnerabilities like DoS attacks. Nonetheless, existing research lacks a systematic approach to studying CDN forwarding request inconsistencies. In this work, we present ReqsMiner, an innovative fuzzing framework developed to discover previously unexamined inconsistencies in CDN forwarding requests. The framework uses techniques derived from reinforcement learning to generate valid test cases, even with minimal feedback, and incorporates real field values into the grammar-based fuzzer. With the help of ReqsMiner, we comprehensively test 22 major CDN providers and uncover a wealth of hitherto unstudied CDN forwarding request inconsistencies. Moreover, the application of specialized analyzers enables ReqsMiner to extend its capabilities, evolving into a framework capable of detecting specific types of attacks. By extension, our work further identifies three novel types of HTTP amplification DoS attacks and uncovers 74 new potential DoS vulnerabilities with an amplification factor that can reach up to 2,000 generally, and even 1,920,000 under specific conditions. The vulnerabilities detected were responsibly disclosed to the affected CDN vendors, and mitigation suggestions were proposed. Our work contributes to fortifying CDN security, thereby enhancing their resilience against malicious attacks and preventing misuse.</p>
     
 
     

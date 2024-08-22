@@ -153,7 +153,10 @@
       <guid>https://lixiang521.com/publication/security24-1/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;In this paper, we rethink the security threats of stale DNS glue records.&lt;/p&gt;
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presented in &lt;a href=&#34;http://xcon.xfocus.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XCon 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -164,7 +167,10 @@
       <guid>https://lixiang521.com/zh/publication/security24-1/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;在本文中，我们深入分析了DNS glue records的安全性。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;展示&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分享于&lt;a href=&#34;http://xcon.xfocus.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XCon 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -887,7 +893,6 @@
       <guid>https://lixiang521.com/publication/ndss24/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This paper proposes a BreakSPF attack framework, a newly discovered method for attackers to bypass the SPF protocol and launch email spoofing attacks.&lt;/p&gt;
-&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -898,7 +903,6 @@
       <guid>https://lixiang521.com/zh/publication/ndss24/</guid>
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本论文提出了一个名为BreakSPF的攻击框架：攻击者新发现的一种绕过SPF协议并发起电子邮件欺骗攻击的方法。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1054,7 +1058,6 @@
       <guid>https://lixiang521.com/zh/publication/ndss24-2/</guid>
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;该文提出一种新的自动化模糊测试工具“ReqsMiner”来发现CDN转发请求的不一致。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1076,7 +1079,6 @@
       <guid>https://lixiang521.com/zh/publication/ndss24-1/</guid>
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本文分析了Protective DNS的生态系统及其安全问题。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1381,7 +1383,6 @@
       <guid>https://lixiang521.com/publication/imc23/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This paper conducted a comprehensive measurement to reveal the prevalence of undelegated DNS records.&lt;/p&gt;
-&lt;p&gt;More details coming soon&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1392,7 +1393,6 @@
       <guid>https://lixiang521.com/zh/publication/imc23/</guid>
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;本文对未授权的DNS记录的普遍性进行了全面的测量。&lt;/p&gt;
-&lt;p&gt;敬请期待&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
