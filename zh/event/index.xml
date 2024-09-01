@@ -5,12 +5,21 @@
     <link>https://lixiang521.com/zh/event/</link>
       <atom:link href="https://lixiang521.com/zh/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 25 May 2024 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu81f197a8303208d7b07ecd8df4e38963_7750415_512x512_fill_lanczos_center_3.png</url>
       <title>Activities</title>
       <link>https://lixiang521.com/zh/event/</link>
     </image>
+    
+    <item>
+      <title>黑帽大会2024（美国）</title>
+      <link>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2024%E7%BE%8E%E5%9B%BD/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2024%E7%BE%8E%E5%9B%BD/</guid>
+      <description>&lt;p&gt;在黑帽大会2024（美国）上, 汪琦学弟分享了我的研究工作：“TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets”。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>新极棒国际站 2024</title>

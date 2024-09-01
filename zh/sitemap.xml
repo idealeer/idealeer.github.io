@@ -185,7 +185,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
-    <lastmod>2024-05-25T09:00:00+00:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -196,6 +196,48 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/event/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/presentation/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/category/presentation/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/category/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/category/presentation/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2024%E7%BE%8E%E5%9B%BD/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/talk/black-hat-usa-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/talk/%E9%BB%91%E5%B8%BD%E5%A4%A7%E4%BC%9A2024%E7%BE%8E%E5%9B%BD/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/competition/</loc>
@@ -364,34 +406,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/tag/dos/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/presentation/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tag/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tag/presentation/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/category/presentation/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/category/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/category/presentation/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/publication/oakland24/</loc>
