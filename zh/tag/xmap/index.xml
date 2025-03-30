@@ -17,7 +17,8 @@
       <link>https://lixiang521.com/zh/project/xmap/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://lixiang521.com/zh/project/xmap/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 是一款兼含 IPv6 与 IPv4 网络空间探测功能的快速扫描器，并且也是第一款学术界+工业界中专门用于 IPv6 资产快速扫描的工具。其参考 ZMap 的原理进行开发，从底层完全改写了 ZMap 的核心代码，将 ZMap 在 IPv4 网络空间的多种扫描优势移植到 IPv6 空间，并且结合我们自身最新的研究发现，增添了 IPv6 设备快速发现技术以及多端口扫描功能，且完全兼容 ZMap，具备“5分钟”扫描32位网络空间的能力。&lt;/p&gt;
+      <description>&lt;p&gt;注意：请查看&lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GITHUB&lt;/a&gt;以获取最新介绍。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/idealeer/xmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMap&lt;/a&gt; 是一款兼含 IPv6 与 IPv4 网络空间探测功能的快速扫描器，并且也是第一款学术界+工业界中专门用于 IPv6 资产快速扫描的工具。其参考 ZMap 的原理进行开发，从底层完全改写了 ZMap 的核心代码，将 ZMap 在 IPv4 网络空间的多种扫描优势移植到 IPv6 空间，并且结合我们自身最新的研究发现，增添了 IPv6 设备快速发现技术以及多端口扫描功能，且完全兼容 ZMap，具备“5分钟”扫描32位网络空间的能力。&lt;/p&gt;
 &lt;p&gt;XMap 适用于 GNU/Linux，Mac OS 和 BSD 操作系统，已经支持 ICMP Echo，TCP SYN 和 &lt;a href=&#34;https://github.com/idealeer/xmap/blob/master/examples/udp-probes/README&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDP&lt;/a&gt; 扫描。&lt;/p&gt;
 &lt;p&gt;结合应用层扫描工具 &lt;a href=&#34;https://github.com/zmap/zgrab2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZGrab2&lt;/a&gt;, XMap 可以发挥更多的扫描功能。&lt;/p&gt;
 &lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
