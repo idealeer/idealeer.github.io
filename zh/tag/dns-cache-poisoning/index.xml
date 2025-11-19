@@ -5,12 +5,130 @@
     <link>https://lixiang521.com/zh/tag/dns-cache-poisoning/</link>
       <atom:link href="https://lixiang521.com/zh/tag/dns-cache-poisoning/index.xml" rel="self" type="application/rss+xml" />
     <description>DNS Cache Poisoning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lixiang521.com/media/icon_hu81f197a8303208d7b07ecd8df4e38963_7750415_512x512_fill_lanczos_center_3.png</url>
       <title>DNS Cache Poisoning</title>
       <link>https://lixiang521.com/zh/tag/dns-cache-poisoning/</link>
     </image>
+    
+    <item>
+      <title>RebirthDay Attack: Reviving DNS Cache Poisoning with the Birthday Paradox</title>
+      <link>https://lixiang521.com/zh/publication/ccs25/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://lixiang521.com/zh/publication/ccs25/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;RebirthDay, a novel DNS cache poisoning attack targeting recursive resolvers and forwarders, reviving the classic DNS Birthday attack that no longer works since 2002.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE/CNNVD&lt;/strong&gt; (50/2)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2025: 13/2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2024: 37/0&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2025-40776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-40776&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-40776&lt;/a&gt;(高危) &lt;a href=&#34;https://www.cnnvd.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202507-2228&lt;/a&gt;(高危)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.powerdns.com/recursor/security-advisories/powerdns-advisory-2025-04.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PowerDNS&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-30192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-30192&lt;/a&gt;(高危) &lt;a href=&#34;https://www.cnnvd.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202507-2635&lt;/a&gt;(高危)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://nlnetlabs.nl/downloads/unbound/CVE-2025-5994.txt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unbound&lt;/a&gt;: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-5994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-5994&lt;/a&gt;(高危)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D-Link: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46663&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46663&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46665&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46665&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46668&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46668&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46671&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Linksys: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46662&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46667&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;iKuai OS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46666&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46666&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46670&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46670&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RouterOS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46664&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46664&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46669&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56089&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HickoryDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56099&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dnsmasq: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56097&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CoreDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56100&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SmartDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-48980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-48980&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56088&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56088&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56090&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56090&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DNSDist: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56092&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56092&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56094&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56094&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pi-hole: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56096&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56096&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pdnsd: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56393&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56393&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Acrylic DNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56095&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56098&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AdGuard: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56091&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56091&lt;/a&gt;-&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56093&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56093&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AdGuard Home: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56101&lt;/a&gt;-&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56106&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DNS Safety: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56108&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56108&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dual DHCP DNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56102&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56102&lt;/a&gt;-&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56103&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NxFilter: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56104&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;YogaDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56105&lt;/a&gt;-&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56107&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TP-Link: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56380&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56380&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56384&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56387&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56387&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56392&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56392&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mercury: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56382&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56382&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fast: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56381&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tenda: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56379&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56379&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Redmi: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56385&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56385&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skyworth: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56383&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56383&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mercury: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56386&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56386&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fast: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56391&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56391&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Netgear: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56388&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tenda: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56390&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fiberhome: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56389&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>The Maginot Line: Attacking the Boundary of DNS Caching Protection</title>
@@ -20,16 +138,16 @@
       <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;p&gt;在本文中，我们报告了&lt;strong&gt;MaginotDNS&lt;/strong&gt;，这是针对同时充当递归解析器和转发器（称为&lt;strong&gt;CDNS&lt;/strong&gt;）的DNS服务器的强大缓存投毒攻击。&lt;/p&gt;
 &lt;p&gt;MaginotDNS: &lt;a href=&#34;https://maginotdns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maginotdns.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;漏洞编号&lt;/strong&gt; (3)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVE/CNNVD&lt;/strong&gt; (3/3)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://kb.isc.org/docs/cve-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIND&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-25220&lt;/a&gt;(中危) &lt;a href=&#34;https://www.cnnvd.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202203-1514&lt;/a&gt;(中危)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md#version-71&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technitium&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2021-43105&lt;/a&gt;(中危) &lt;a href=&#34;https://www.cnnvd.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202203-2379&lt;/a&gt;(中危)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://knot-resolver.readthedocs.io/en/stable/modules-policy.html#forwarding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knot Resolver&lt;/a&gt;&lt;/strong&gt;: &lt;strong&gt;&lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2022-32983&lt;/a&gt;(中危) &lt;a href=&#34;https://www.cnnvd.org.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNNVD-202206-2074&lt;/a&gt;(中危)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;分享&lt;/strong&gt;&lt;/p&gt;

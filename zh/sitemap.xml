@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lixiang521.com/zh/publication-type/1/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/categories/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/dns/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/category/dns/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -58,8 +58,50 @@
                 href="https://lixiang521.com/zh/category/dns/"
                 />
   </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns-cache-poisoning/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dns-cache-poisoning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dns-cache-poisoning/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns-query/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dns-query/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dns-query/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tag/dns-response/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tag/dns-response/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tag/dns-response/"
+                />
+  </url><url>
     <loc>https://lixiang521.com/zh/tag/dns-security/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -70,6 +112,76 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/tag/dns-security/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication_types/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication_types/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/publication/ccs25/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/publication/ccs25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/publication/ccs25/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/tags/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://lixiang521.com/zh/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://lixiang521.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://lixiang521.com/zh/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/fuzzing/</loc>
@@ -84,34 +196,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/tag/fuzzing/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication_types/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/publication_types/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/publication/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/publication/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/resolver-fuzzing/</loc>
@@ -154,34 +238,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/publication/security24-1/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tags/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tags/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/event/</loc>
@@ -308,34 +364,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/talk/45th-ieee-symposium-on-security-and-privacy-2024-ieee-sp-2024/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/dns-query/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tag/dns-query/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tag/dns-query/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/dns-response/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tag/dns-response/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tag/dns-response/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/publication/oakland24-2/</loc>
@@ -882,20 +910,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://lixiang521.com/zh/tag/dns-bailiwick-rule/"
-                />
-  </url><url>
-    <loc>https://lixiang521.com/zh/tag/dns-cache-poisoning/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lixiang521.com/tag/dns-cache-poisoning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://lixiang521.com/zh/tag/dns-cache-poisoning/"
                 />
   </url><url>
     <loc>https://lixiang521.com/zh/tag/dos-attack/</loc>
