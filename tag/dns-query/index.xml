@@ -49,7 +49,7 @@
 &lt;p&gt;RouterOS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46664&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46664&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46669&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56089&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56089&lt;/a&gt;(High)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;HickoryDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56099&lt;/a&gt;&lt;/p&gt;
@@ -167,7 +167,7 @@
 &lt;p&gt;RouterOS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46664&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46664&lt;/a&gt; &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-46669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2025-46669&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56089&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technitium: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56089&lt;/a&gt;(高危)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;HickoryDNS: &lt;a href=&#34;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-56099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVE-2024-56099&lt;/a&gt;&lt;/p&gt;
